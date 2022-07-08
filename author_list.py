@@ -33,7 +33,9 @@ authors = {'L. Abe': ['Laboratoire J.-L. Lagrange, Universit de Nice Sophia-Anti
            'J. Dubouil': ["Astronomie et Systèmes Dynamiques, Institut de Mécanique Céleste et de Calcul des Éphémérides CNRS UMR 8028, Observatoire de Paris, Université PSL, Sorbonne Université, 77 Avenue Denfert-Rochereau, 75014 Paris, France"],                                         
            'J.-G. Ducoin': ['IJCLab, Univ Paris-Saclay, CNRS/IN2P3, Orsay, France', 'Institut d’Astrophysique de Paris, 98 bis boulevard Arago, 75014 Paris France'],
            'P.-A. Duverne': ['IJCLab, Univ Paris-Saclay, CNRS/IN2P3, Orsay, France'],
+           'A. Esamdin': ['Xinjiang Astronomical Observatory, Chinese Academy of Sciences, Urumqi, Xinjiang 830011, People’s Republic of China', 'University of Chinese Academy of Sciences, Beijing 100049, People’s Republic of China'],
            'A. Fouad': ['National Research Institute of Astronomy and Geophysics, 1 El-marsad St., Helwan, Cairo, Egypt'],
+           'F. Guo': ['Physics Department and Astronomy Department, Tsinghua University, Beijing, 100084, China'],
            'V. Godunova': ['ICAMER Observatory of NAS of Ukraine 27 Acad. Zabolotnoho Str., Kyiv, 03143, Ukraine'],
            'P. Gokuldass': ["Department of Aerospace, Physics, and Space Sciences, Florida Institute of Technology, Melbourne, Florida 32901, USA"],
            'N. Guessoum': ['American University of Sharjah, Physics Department, PO Box 26666, Sharjah, UAE'],
@@ -43,6 +45,7 @@ authors = {'L. Abe': ['Laboratoire J.-L. Lagrange, Universit de Nice Sophia-Anti
            'P. Hello': ['IJCLab, Univ Paris-Saclay, CNRS/IN2P3, Orsay, France'],
            'T. Hussenot-Desenonges': ['IJCLab, Univ Paris-Saclay, CNRS/IN2P3, Orsay, France'], 
            'R. Inasaridze': ['E. Kharadze Georgian National Astrophysical Observatory, Mt.Kanobili, Abastumani, 0301, Adigeni, Georgia; Ilia State University, Kakutsa Cholokashvili ave 3/5, Tbilisi 0162, Georgia', 'Samtskhe-Javakheti  State  University, Rustaveli Str. 113,  Akhaltsikhe, 0080,  Georgia'],
+           'A. Iskandar': ['Xinjiang Astronomical Observatory, Chinese Academy of Sciences, Urumqi, Xinjiang 830011, People’s Republic of China'],
            'E. E. O. Ishida': ['LPC, Université Clermont Auvergne, CNES/IN2P3, F-63000, France'],
            'N. Ismailov': ['N.Tusi Shamakhy astrophysical Observatory Azerbaijan National Academy of Sciences, settl.Mamedaliyev, AZ 5626, Shamakhy, Azerbaijan'],
            'T. Jegou du Laz': ['IJCLab, Univ Paris-Saclay, CNRS/IN2P3, Orsay, France'],
@@ -93,6 +96,7 @@ authors = {'L. Abe': ['Laboratoire J.-L. Lagrange, Universit de Nice Sophia-Anti
            'D. Vernet': ["Observatoire de la Côte d'Azur, CNRS, UMS Galilée, France"],
            'Z. Vidadi': ['N.Tusi Shamakhy astrophysical Observatory Azerbaijan National Academy of Sciences, settl.Mamedaliyev, AZ 5626, Shamakhy, Azerbaijan'],
            'J. Zhu': ['Beijing Planetarium, Beijing Academy of Science and Technology, Beijing, 100044, China'],
+           'Y. Zhu': ['Key Laboratory of Optical Astronomy, National Astronomical Observatories, Chinese Academy of Sciences, A20, Datun Road, Chaoyang District, Beijing 100012, China'],
     }
 
 institution_list_ordered = []
