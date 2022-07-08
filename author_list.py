@@ -79,7 +79,7 @@ authors = {'V. Aivazyan': ['E. Kharadze Georgian National Astrophysical Observat
            'M. Richmond': ['School of Physics and Astronomy, Rochester Institute of Technology, 84 Lomb Memorial Drive, Rochester, NY 14623, USA'],
            'Ya. Romanyuk': ['Main Astronomical Observatory of National Academy of Sciences of Ukraine, 27 Acad. Zabolotnoho Str., Kyiv, 03143, Ukraine'],
            'L. Rousselot': ["Société Astronomique Populaire du Centre ,40 grande rue, 18340 Arçay, France"],
-           'V. Rupchandani': ['American University of Sharjah, Physics Department, PO Box 26666, Sharjah, UAE'],
+           'V. Rupchandani': ['American University of Sharjah, Physics Department, PO Box 26666, Sharjah, UAE', 'Brown University, Providence, RI 02912, United States'],
            'T. Sadibekova': ["Ulugh Beg Astronomical Institute, Uzbekistan Academy of Sciences, Astronomy str. 33, Tashkent 100052, Uzbekistan", "Universit\'e Paris-Saclay, Universit\'e Paris Cit\'e, CEA, CNRS, AIM, 91191, Gif-sur-Yvette, France"],
            'M. Serrau': ['Observatoire de Dauban, 04 Banon - France'],
            'O. Sokoliuk': ["Astronomical Observatory\ Taras Shevshenko National University of Kyiv, Observatorna str. 3, Kyiv, 04053, Ukraine", "Main Astronomical Observatory of National Academy of Sciences of Ukraine, 27 Acad. Zabolotnoho Str., Kyiv, 03143, Ukraine"],
