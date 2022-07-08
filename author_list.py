@@ -63,7 +63,7 @@ authors = {'L. Abe': ['Laboratoire J.-L. Lagrange, Universit de Nice Sophia-Anti
            'A. Möller': ['LPC, Université Clermont Auvergne, CNES/IN2P3, F-63000, France', 'Centre for Astrophysics and Supercomputing, Swinburne University of Technology, Mail Number H29, PO Box 218, 31122 Hawthorn, VIC, Australia'],
            'D. Morris': ['University of the Virgin Islands, United States Virgin Islands 00802, USA'],
            'R. Natsvlishvili': ['E. Kharadze Georgian National Astrophysical Observatory, Mt.Kanobili, Abastumani, 0301, Adigeni, Georgia; Ilia State University, Kakutsa Cholokashvili ave 3/5, Tbilisi 0162, Georgia'],
-           'F. Navarete': ["OAR Telescope/NSF's NOIRLab, Avda Juan Cisternas 1500, 1700000, La Serena, Chile"],
+           'F. Navarete': ["SOAR Telescope/NSF's NOIRLab, Avda Juan Cisternas 1500, 1700000, La Serena, Chile"],
            'K. Noysena': ["National Astronomical Research Institute of Thailand (Public Organization), 260, Moo 4, T. Donkaew, A. Mae Rim, Chiang Mai, 50180, Thailand"],
            'S. Nissanke': ["GRAPPA, Anton Pannekoek Institute for Astronomy and Institute of High-Energy Physics, University of Amsterdam, Science Park 904,1098 XH Amsterdam, The Netherlands"],
            'K. Noonan': ['OrangeWave Innovative Science, LLC, Moncks Corner, SC 29461, USA'],
