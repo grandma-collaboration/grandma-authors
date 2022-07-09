@@ -56,7 +56,7 @@ authors = {'S. Agayeva': ['N.Tusi Shamakhy astrophysical Observatory Azerbaijan 
            'S. Karpov': ['FZU - Institute of Physics of the Czech Academy of Sciences, Na Slovance 1999/2, CZ-182 21, Praha, Czech Republic'],
            'R. W. Kiendrebeogo': ["Artemis, Observatoire de la Côte d’Azur, Université Côte d’Azur, Boulevard de l'Observatoire, 06304 Nice, France", "Laboratoire de Physique et de Chimie de l’Environnement, Université Joseph KI-ZERBO, Ouagadougou, Burkina Faso"],
            'A. Klotz': ["IRAP, Universit\\'e de Toulouse, CNRS, UPS, 14 Avenue Edouard Belin, F-31400 Toulouse, France", "Universit\\'e Paul Sabatier Toulouse III, Universit\'e de Toulouse, 118 route de Narbonne, 31400 Toulouse, France"],
-           'N. Kochiashvili': ['E. Kharadze Georgian National Astrophysical Observatory, Mt.Kanobili, Abastumani, 0301, Adigeni, Georgia', 'Ilia State University, Kakutsa Cholokashvili ave 3/5, Tbilisi 0162, Georgia'],
+           'N. Kochiashvili': ['E. Kharadze Georgian National Astrophysical Observatory, Mt.Kanobili, Abastumani, 0301, Adigeni, Georgia'],
            'A. Kaeouach': ['Observatory of Oukaimden,  Morocco'],
            'J.-P. Kneib': ['Laboratoire d’astrophysique (LASTRO), Ecole Polytechnique F ́ed ́erale de Lausanne (EPFL), Observatoire de Sauverny, CH-1290 Versoix, Switzerland'],
            'W. Kou': ['Beijing Planetarium, Beijing Academy of Science and Technology, Beijing, 100044, People’s Republic of China'],
