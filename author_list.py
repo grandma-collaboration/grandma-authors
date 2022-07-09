@@ -60,6 +60,7 @@ authors = {'S. Agayeva': ['N.Tusi Shamakhy astrophysical Observatory Azerbaijan 
            'A. Kaeouach': ['Observatory of Oukaimden,  Morocco'],
            'J.-P. Kneib': ['Laboratoire d’astrophysique (LASTRO), Ecole Polytechnique F ́ed ́erale de Lausanne (EPFL), Observatoire de Sauverny, CH-1290 Versoix, Switzerland'],
            'W. Kou': ['Beijing Planetarium, Beijing Academy of Science and Technology, Beijing, 100044, China'],
+           'K. Kruiswijk': ['Centre for Cosmology, Particle Physics and Phenomenology - CP3, Universite Catholique de Louvain, B-1348 Louvain-la-Neuve, Belgium'],
            'S. Lombardo': ['Aix Marseille Univ, CNRS, CNES, LAM, Marseille, France'],
            'M. Lamoureux': ["Centre for Cosmology, Particle Physics and Phenomenology - CP3, Universit\\'e catholique de Louvain, B-1348 Louvain-la-Neuve, Belgium"],
            'N. Leroy': ['IJCLab, Univ Paris-Saclay, CNRS/IN2P3, Orsay, France'],
