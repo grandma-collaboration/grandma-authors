@@ -79,6 +79,7 @@ authors = {'S. Agayeva': ['N.Tusi Shamakhy astrophysical Observatory Azerbaijan 
            'J. Peloton': ['IJCLab, Univ Paris-Saclay, CNRS/IN2P3, Orsay, France'],
            'M. Pilloix': ["Artemis, Observatoire de la Côte d’Azur, Université Côte d’Azur, Boulevard de l'Observatoire, 06304 Nice, France"],
            'T. Pradier': ['Université de Strasbourg, CNRS, IPHC UMR 7178, F-67000 Strasbourg, France'],
+           'M. Prouza': ['FZU - Institute of Physics of the Czech Academy of Sciences, Na Slovance 1999/2, CZ-182 21, Praha, Czech Republic'],
            'G. Raaijmakers': ["GRAPPA, Anton Pannekoek Institute for Astronomy and Institute of High-Energy Physics, University of Amsterdam, Science Park 904,1098 XH Amsterdam, The Netherlands"],
            'Y. Rajabov': ['Ulugh Beg Astronomical Institute, Uzbekistan Academy of Sciences, Astronomy str. 33, Tashkent 100052, Uzbekistan'],
            'J.-P. Rivet': ['Laboratoire J.-L. Lagrange, Universit de Nice Sophia-Antipolis, CNRS, Observatoire de la Cote d’Azur, F-06304 Nice, France'],
