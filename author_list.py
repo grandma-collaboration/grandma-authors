@@ -2,7 +2,7 @@
 import os
 import sys
 
-authors = {'S. Agayeva': ['N.Tusi Shamakhy astrophysical Observatory Azerbaijan National Academy of Sciences, settl.Mamedaliyev, AZ 5626, Shamakhy, Azerbaijan'],
+authors = {'S. Agayeva': ['N.Tusi Shamakhy Astrophysical Observatory Azerbaijan National Academy of Sciences, settl.Y. Mammadaliyev, AZ 5626, Shamakhy, Azerbaijan'],
            'V. Aivazyan': ['E. Kharadze Georgian National Astrophysical Observatory, Mt.Kanobili, Abastumani, 0301, Adigeni, Georgia', 'Samtskhe-Javakheti  State  University, Rustaveli Str. 113,  Akhaltsikhe, 0080,  Georgia'],
            'S. Alishov': ['N.Tusi Shamakhy astrophysical Observatory Azerbaijan National Academy of Sciences, settl.Mamedaliyev, AZ 5626, Shamakhy, Azerbaijan'], 
            'M. Almualla': ['American University of Sharjah, Physics Department, PO Box 26666, Sharjah, UAE'],
@@ -41,15 +41,15 @@ authors = {'S. Agayeva': ['N.Tusi Shamakhy astrophysical Observatory Azerbaijan 
            'V. Godunova': ['ICAMER Observatory of NAS of Ukraine 27 Acad. Zabolotnoho Str., Kyiv, 03143, Ukraine'],
            'P. Gokuldass': ["Department of Aerospace, Physics, and Space Sciences, Florida Institute of Technology, Melbourne, Florida 32901, USA"],
            'N. Guessoum': ['American University of Sharjah, Physics Department, PO Box 26666, Sharjah, UAE'],
-           'E. Gurbanov': ['N.Tusi Shamakhy astrophysical Observatory Azerbaijan National Academy of Sciences, settl.Mamedaliyev, AZ 5626, Shamakhy, Azerbaijan'], 
+           'E. Gurbanov': ['N.Tusi Shamakhy Astrophysical Observatory Azerbaijan National Academy of Sciences, settl.Y. Mammadaliyev, AZ 5626, Shamakhy, Azerbaijan'], 
            'R. Hainich': ['Institut für Physik und Astronomie, Universität Potsdam, Karl-Liebknecht-Str. 24/25, D-14476 Potsdam, Germany'],
-           'E. Hasanov': ['N.Tusi Shamakhy astrophysical Observatory Azerbaijan National Academy of Sciences, settl.Mamedaliyev, AZ 5626, Shamakhy, Azerbaijan'], 
+           'E. Hasanov': ['N.Tusi Shamakhy Astrophysical Observatory Azerbaijan National Academy of Sciences, settl.Y. Mammadaliyev, AZ 5626, Shamakhy, Azerbaijan'], 
            'P. Hello': ['IJCLab, Univ Paris-Saclay, CNRS/IN2P3, Orsay, France'],
            'T. Hussenot-Desenonges': ['IJCLab, Univ Paris-Saclay, CNRS/IN2P3, Orsay, France'], 
            'R. Inasaridze': ['E. Kharadze Georgian National Astrophysical Observatory, Mt.Kanobili, Abastumani, 0301, Adigeni, Georgia', 'Samtskhe-Javakheti  State  University, Rustaveli Str. 113,  Akhaltsikhe, 0080,  Georgia'],
            'A. Iskandar': ['Xinjiang Astronomical Observatory, Chinese Academy of Sciences, Urumqi, Xinjiang 830011, People’s Republic of China'],
            'E. E. O. Ishida': ['LPC, Université Clermont Auvergne, CNES/IN2P3, F-63000, France'],
-           'N. Ismailov': ['N.Tusi Shamakhy astrophysical Observatory Azerbaijan National Academy of Sciences, settl.Mamedaliyev, AZ 5626, Shamakhy, Azerbaijan'],
+           'N. Ismailov': ['N.Tusi Shamakhy Astrophysical Observatory Azerbaijan National Academy of Sciences, settl.Y. Mammadaliyev, AZ 5626, Shamakhy, Azerbaijan'],
            'T. Jegou du Laz': ['IJCLab, Univ Paris-Saclay, CNRS/IN2P3, Orsay, France'],
            'D. A. Kann': ["Instituto de Astrof\\'isica de Andaluc\\'ia (IAA-CSIC), Glorieta de la Astronom\\'ia s/n, 18008 Granada, Spain"],
            'G. Kapanadze': ['E. Kharadze Georgian National Astrophysical Observatory, Mt.Kanobili, Abastumani, 0301, Adigeni, Georgia', 'Samtskhe-Javakheti  State  University, Rustaveli Str. 113,  Akhaltsikhe, 0080,  Georgia'],
@@ -102,7 +102,7 @@ authors = {'S. Agayeva': ['N.Tusi Shamakhy astrophysical Observatory Azerbaijan 
            'X. F. Wang': ['Beijing Planetarium, Beijing Academy of Science and Technology, Beijing, 100044, People’s Republic of China', 'Physics Department and Astronomy Department, Tsinghua University, Beijing, 100084, People’s Republic of China'],
            'G. de Wasseige': ['Laboratoire APC, Université de Paris 10, Rue Alice Domon et Léonie Duquet, 75013 Paris, France'],
            'D. Vernet': ["Observatoire de la Côte d'Azur, CNRS, UMS Galilée, France"],
-           'Z. Vidadi': ['N.Tusi Shamakhy astrophysical Observatory Azerbaijan National Academy of Sciences, settl.Mamedaliyev, AZ 5626, Shamakhy, Azerbaijan'],
+           'Z. Vidadi': ['N.Tusi Shamakhy Astrophysical Observatory Azerbaijan National Academy of Sciences, settl.Y. Mammadaliyev, AZ 5626, Shamakhy, Azerbaijan'],
            'J. Zhu': ['Beijing Planetarium, Beijing Academy of Science and Technology, Beijing, 100044, People’s Republic of China'],
            'Y. Zhu': ['Key Laboratory of Optical Astronomy, National Astronomical Observatories, Chinese Academy of Sciences, A20, Datun Road, Chaoyang District, Beijing 100012, People’s Republic of China'],
     }
