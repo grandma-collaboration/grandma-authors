@@ -68,7 +68,7 @@ authors = {'S. Agayeva': ['N.Tusi Shamakhy Astrophysical Observatory Azerbaijan 
            'J. Mao': ['Yunnan Observatories, Chinese Academy of Sciences, Kunming 650011, Yunnan Province, People’s Republic of China'],
            'M. Ma\\v{s}ek': ['FZU - Institute of Physics of the Czech Academy of Sciences, Na Slovance 1999/2, CZ-182 21, Praha, Czech Republic'],
            'T. Midavaine': ["Universit\\'e de Paris, CNRS, Astroparticule et Cosmologie, F-75013 Paris, France"],
-           'A. Möller': ['LPC, Université Clermont Auvergne, CNES/IN2P3, F-63000, France', 'Centre for Astrophysics and Supercomputing, Swinburne University of Technology, Mail Number H29, PO Box 218, 31122 Hawthorn, VIC, Australia'],
+           'A. Möller': ['Centre for Astrophysics and Supercomputing, Swinburne University of Technology, Mail Number H29, PO Box 218, 31122 Hawthorn, VIC, Australia', 'ARC Centre of Excellence for Gravitational Wave Discovery (OzGrav), Hawthorn VIC 3122, Australia'],
            'D. Morris': ['University of the Virgin Islands, United States Virgin Islands 00802, USA'],
            'R. Natsvlishvili': ['E. Kharadze Georgian National Astrophysical Observatory, Mt.Kanobili, Abastumani, 0301, Adigeni, Georgia'],
            'F. Navarete': ["SOAR Telescope/NSF's NOIRLab, Avda Juan Cisternas 1500, 1700000, La Serena, Chile"],
