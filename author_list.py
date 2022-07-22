@@ -24,7 +24,7 @@ authors = [
 {'name': 'S.~Caudill', 'affiliations': ['Institute for Gravitational and Subatomic Physics (GRASP), Utrecht University, Princetonplein 1, 3584 CC, Utrecht, The Netherlands', 'Nikhef, Science Park 105, 1098 XG, Amsterdam, The Netherlands'], 'email': 's.caudill@NIKHEF.NL'},
 {'name': 'N.~Christensen', 'affiliations': ["Artemis, Observatoire de la C\\^ote d’Azur, Universit\\'e C\\^ote d’Azur, Boulevard de l'Observatoire, 06304 Nice, France"], 'email': 'nelson.christensen@OCA.EU'},
 {'name': 'F.~Colas', 'affiliations': ["Astronomie et Syst\\`emes Dynamiques, Institut de M\\'ecanique C\\'eleste et de Calcul des \\'Eph\\'em\\'erides CNRS UMR 8028, Observatoire de Paris, Universit\\'e PSL, Sorbonne Universit\\'e, 77 Avenue Denfert-Rochereau, 75014 Paris, France"], 'email': 'francois.colas@obspm.fr'},
-{'name': 'A.~Coleiro', 'affiliations': ["Universit\\'e Paris Cit\’e, CNRS, Astroparticule et Cosmologie, F-75013 Paris, France"], 'email': 'coleiro@APC.IN2P3.FR'},
+{'name': 'A.~Coleiro', 'affiliations': ["Universit\\'e Paris Cit\\'e, CNRS, Astroparticule et Cosmologie, F-75013 Paris, France"], 'email': 'coleiro@APC.IN2P3.FR'},
 {'name': 'W.~Corradi', 'affiliations': ["Laborat\\'orio Nacional de Astrofísica, R. dos Estados Unidos, 154 - Nações, Itajub\\'a - MG, 37504-364, Brazil"], 'email': 'wbcorradi@LNA.BR'},
 {'name': 'M.~W.~Coughlin', 'affiliations': ['School of Physics and Astronomy, University of Minnesota, Minneapolis, Minnesota 55455, USA'], 'email': 'michael.w.coughlin@GMAIL.COM'},
 {'name': 'T.~Culino', 'affiliations': ["Artemis, Observatoire de la C\\^ote d’Azur, Universit\\'e C\\^ote d’Azur, Boulevard de l'Observatoire, 06304 Nice, France"], 'email': 'thomas.culino@EDU.DEVINCI.FR'},
