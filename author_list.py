@@ -16,7 +16,6 @@ authors = {'S. Agayeva': ['N.Tusi Shamakhy Astrophysical Observatory Azerbaijan 
            'S. Beradze': ['E. Kharadze Georgian National Astrophysical Observatory, Mt.Kanobili, Abastumani, 0301, Adigeni, Georgia', 'Samtskhe-Javakheti  State  University, Rustaveli Str. 113,  Akhaltsikhe, 0080,  Georgia'],
            'D. Berezin': ['ICAMER Observatory of NAS of Ukraine 27 Acad. Zabolotnoho Str., Kyiv, 03143, Ukraine'],
            'U. Bhardwaj': ["GRAPPA, Anton Pannekoek Institute for Astronomy and Institute of High-Energy Physics, University of Amsterdam, Science Park 904,1098 XH Amsterdam, The Netherlands"],
-           'M.-A. Bizouard': ["Artemis, Observatoire de la Côte d’Azur, Université Côte d’Azur, Boulevard de l'Observatoire, 06304 Nice, France"],
            'M. Blazek': ["Instituto de Astrof\\'isica de Andaluc\\'ia (IAA-CSIC), Glorieta de la Astronom\\'ia s/n, 18008 Granada, Spain"],
            'O. Burkhonov': ['Ulugh Beg Astronomical Institute, Uzbekistan Academy of Sciences, Astronomy str. 33, Tashkent 100052, Uzbekistan'],
            'E. Burns': ['Department of Physics \\& Astronomy, Louisiana State University, Baton Rouge, LA 70803, USA'],
