@@ -1,28 +1,29 @@
 # Author: Michael Coughlin
+import csv
 import os
 import sys
 
 authors = [
 {'name': 'S. Agayeva', 'affiliations': ['N.Tusi Shamakhy Astrophysical Observatory Azerbaijan National Academy of Sciences, settl.Y. Mammadaliyev, AZ 5626, Shamakhy, Azerbaijan'], 'email': 'sebnem-agayeva-94@MAIL.RU'},
 {'name': 'V. Aivazyan', 'affiliations': ['E. Kharadze Georgian National Astrophysical Observatory, Mt.Kanobili, Abastumani, 0301, Adigeni, Georgia', 'Samtskhe-Javakheti  State  University, Rustaveli Str. 113,  Akhaltsikhe, 0080,  Georgia'], 'email': 'vovaaivazian10@GMAIL.COM'},
-{'name': 'S. Alishov', 'affiliations': ['N.Tusi Shamakhy astrophysical Observatory Azerbaijan National Academy of Sciences, settl.Mamedaliyev, AZ 5626, Shamakhy, Azerbaijan'], 'email': ''},
-{'name': 'M. Almualla', 'affiliations': ['American University of Sharjah, Physics Department, PO Box 26666, Sharjah, UAE'], 'email': ''},
+{'name': 'S. Alishov', 'affiliations': ['N.Tusi Shamakhy astrophysical Observatory Azerbaijan National Academy of Sciences, settl.Mamedaliyev, AZ 5626, Shamakhy, Azerbaijan'], 'email': 'sebaheddin.ali@GMAIL.COM'},
+{'name': 'M. Almualla', 'affiliations': ['American University of Sharjah, Physics Department, PO Box 26666, Sharjah, UAE'], 'email': 'g00074394@aus.edu'},
 {'name': 'C. Andrade', 'affiliations': ['School of Physics and Astronomy, University of Minnesota, Minneapolis, Minnesota 55455, USA'], 'email': 'andra104@UMN.EDU'},
 {'name': 'S. Antier', 'affiliations': ["Artemis, Observatoire de la Côte d’Azur, Université Côte d’Azur, Boulevard de l'Observatoire, 06304 Nice, France"], 'email': 'sarah.antier@OCA.EU'},
-{'name': 'J.-M. Bai', 'affiliations': ['Yunnan Observatories, Chinese Academy of Sciences, Kunming 650011, Yunnan Province, People’s Republic of China'], 'email': ''},
+{'name': 'J.-M. Bai', 'affiliations': ['Yunnan Observatories, Chinese Academy of Sciences, Kunming 650011, Yunnan Province, People’s Republic of China'], 'email': 'baijm@163.net'},
 {'name': 'A. Baransky', 'affiliations': ['Astronomical Observatory Taras Shevshenko National University of Kyiv, Observatorna str. 3, Kyiv, 04053, Ukraine'], 'email': 'abaransky@UKR.NET'},
 {'name': 'S. Basa', 'affiliations': ['Aix Marseille Univ, CNRS, CNES, LAM, IPhU, Marseille, France'], 'email': 'Stephane.Basa@LAM.FR'},
-{'name': 'P. Bendjoya', 'affiliations': ['Laboratoire J.-L. Lagrange, Universit de Nice Sophia-Antipolis, CNRS, Observatoire de la Cote d’Azur, F-06304 Nice, France'], 'email': ''},
-{'name': 'Z. Benkhaldoun', 'affiliations': ['Universit ́e Cadi Ayyad, Facult ́e des Sciences Semlalia, Av. Prince My Abdellah, BP 2390 Marrakesh, Morocco'], 'email': ''},
+{'name': 'P. Bendjoya', 'affiliations': ['Laboratoire J.-L. Lagrange, Universit de Nice Sophia-Antipolis, CNRS, Observatoire de la Cote d’Azur, F-06304 Nice, France'], 'email': 'bendjoya@oca.eu'},
+{'name': 'Z. Benkhaldoun', 'affiliations': ['Universit ́e Cadi Ayyad, Facult ́e des Sciences Semlalia, Av. Prince My Abdellah, BP 2390 Marrakesh, Morocco'], 'email': 'zouhair@uca.ac.ma'},
 {'name': 'S. Beradze', 'affiliations': ['E. Kharadze Georgian National Astrophysical Observatory, Mt.Kanobili, Abastumani, 0301, Adigeni, Georgia', 'Samtskhe-Javakheti  State  University, Rustaveli Str. 113,  Akhaltsikhe, 0080,  Georgia'], 'email': 'beradze.sophia@GMAIL.COM'},
 {'name': 'D. Berezin', 'affiliations': ['ICAMER Observatory of NAS of Ukraine 27 Acad. Zabolotnoho Str., Kyiv, 03143, Ukraine'], 'email': ''},
 {'name': 'U. Bhardwaj', 'affiliations': ['GRAPPA, Anton Pannekoek Institute for Astronomy and Institute of High-Energy Physics, University of Amsterdam, Science Park 904,1098 XH Amsterdam, The Netherlands'], 'email': 'u.bhardwaj@UVA.NL'},
 {'name': 'M. Blazek', 'affiliations': ["Instituto de Astrof\\'isica de Andaluc\\'ia (IAA-CSIC), Glorieta de la Astronom\\'ia s/n, 18008 Granada, Spain"], 'email': 'embee.cz@GMAIL.COM'},
 {'name': 'O. Burkhonov', 'affiliations': ['Ulugh Beg Astronomical Institute, Uzbekistan Academy of Sciences, Astronomy str. 33, Tashkent 100052, Uzbekistan'], 'email': 'boa@ASTRIN.UZ'},
-{'name': 'E. Burns', 'affiliations': ['Department of Physics \\& Astronomy, Louisiana State University, Baton Rouge, LA 70803, USA'], 'email': ''},
+{'name': 'E. Burns', 'affiliations': ['Department of Physics \\& Astronomy, Louisiana State University, Baton Rouge, LA 70803, USA'], 'email': 'ericburns@lsu.edu'},
 {'name': 'S. Caudill', 'affiliations': ['Institute for Gravitational and Subatomic Physics (GRASP), Utrecht University, Princetonplein 1, 3584 CC, Utrecht, The Netherlands', 'Nikhef, Science Park 105, 1098 XG, Amsterdam, The Netherlands'], 'email': 's.caudill@NIKHEF.NL'},
 {'name': 'N. Christensen', 'affiliations': ["Artemis, Observatoire de la Côte d’Azur, Université Côte d’Azur, Boulevard de l'Observatoire, 06304 Nice, France"], 'email': 'nelson.christensen@OCA.EU'},
-{'name': 'F. Colas', 'affiliations': ['Astronomie et Systèmes Dynamiques, Institut de Mécanique Céleste et de Calcul des Éphémérides CNRS UMR 8028, Observatoire de Paris, Université PSL, Sorbonne Université, 77 Avenue Denfert-Rochereau, 75014 Paris, France'], 'email': ''},
+{'name': 'F. Colas', 'affiliations': ['Astronomie et Systèmes Dynamiques, Institut de Mécanique Céleste et de Calcul des Éphémérides CNRS UMR 8028, Observatoire de Paris, Université PSL, Sorbonne Université, 77 Avenue Denfert-Rochereau, 75014 Paris, France'], 'email': 'francois.colas@obspm.fr'},
 {'name': 'A. Coleiro', 'affiliations': ["Universit\\'e de Paris, CNRS, Astroparticule et Cosmologie, F-75013 Paris, France"], 'email': 'coleiro@APC.IN2P3.FR'},
 {'name': 'W. Corradi', 'affiliations': ['Laboratório Nacional de Astrofísica, R. dos Estados Unidos, 154 - Nações, Itajubá - MG, 37504-364, Brazil'], 'email': 'wbcorradi@LNA.BR'},
 {'name': 'M. W. Coughlin', 'affiliations': ['School of Physics and Astronomy, University of Minnesota, Minneapolis, Minnesota 55455, USA'], 'email': 'michael.w.coughlin@GMAIL.COM'},
@@ -35,8 +36,8 @@ authors = [
 {'name': 'J. Dubouil', 'affiliations': ['Astronomie et Systèmes Dynamiques, Institut de Mécanique Céleste et de Calcul des Éphémérides CNRS UMR 8028, Observatoire de Paris, Université PSL, Sorbonne Université, 77 Avenue Denfert-Rochereau, 75014 Paris, France'], 'email': 'Julien.Dubouil@OBSPM.FR'},
 {'name': 'J.-G. Ducoin', 'affiliations': ['Institut d’Astrophysique de Paris, 98 bis boulevard Arago, 75014 Paris, France'], 'email': 'ducoin@IAP.FR'},
 {'name': 'P.-A. Duverne', 'affiliations': ['IJCLab, Univ Paris-Saclay, CNRS/IN2P3, Orsay, France'], 'email': 'pierre-alexandre.duverne@U-PSUD.FR'},
-{'name': 'A. Esamdin', 'affiliations': ['Xinjiang Astronomical Observatory, Chinese Academy of Sciences, Urumqi, Xinjiang 830011, People’s Republic of China', 'University of Chinese Academy of Sciences, Beijing 100049, People’s Republic of China'], 'email': ''},
-{'name': 'A. Fouad', 'affiliations': ['National Research Institute of Astronomy and Geophysics, 1 El-marsad St., Helwan, Cairo, Egypt'], 'email': ''},
+{'name': 'A. Esamdin', 'affiliations': ['Xinjiang Astronomical Observatory, Chinese Academy of Sciences, Urumqi, Xinjiang 830011, People’s Republic of China', 'University of Chinese Academy of Sciences, Beijing 100049, People’s Republic of China'], 'email': 'aliyi@xao.ac.cn'},
+{'name': 'A. Fouad', 'affiliations': ['National Research Institute of Astronomy and Geophysics, 1 El-marsad St., Helwan, Cairo, Egypt'], 'email': 'ahmed.fouad@nriag.sci.eg'},
 {'name': 'F. Guo', 'affiliations': ['Physics Department and Astronomy Department, Tsinghua University, Beijing, 100084, People’s Republic of China'], 'email': 'gfz20@MAILS.TSINGUA.EDU.CN'},
 {'name': 'V. Godunova', 'affiliations': ['ICAMER Observatory of NAS of Ukraine 27 Acad. Zabolotnoho Str., Kyiv, 03143, Ukraine'], 'email': 'godunova@MAO.KIEV.UA'},
 {'name': 'P. Gokuldass', 'affiliations': ['Department of Aerospace, Physics, and Space Sciences, Florida Institute of Technology, Melbourne, Florida 32901, USA'], 'email': 'priyadass.94@GMAIL.COM'},
@@ -57,7 +58,7 @@ authors = [
 {'name': 'R. W. Kiendrebeogo', 'affiliations': ["Artemis, Observatoire de la Côte d’Azur, Université Côte d’Azur, Boulevard de l'Observatoire, 06304 Nice, France", 'Laboratoire de Physique et de Chimie de l’Environnement, Université Joseph KI-ZERBO, Ouagadougou, Burkina Faso'], 'email': 'weizmann.kiendrebeogo@OCA.EU'},
 {'name': 'A. Klotz', 'affiliations': ["IRAP, Universit\\'e de Toulouse, CNRS, UPS, 14 Avenue Edouard Belin, F-31400 Toulouse, France", "Universit\\'e Paul Sabatier Toulouse III, Universit'e de Toulouse, 118 route de Narbonne, 31400 Toulouse, France"], 'email': 'aklotz@IRAP.OMP.EU'},
 {'name': 'N. Kochiashvili', 'affiliations': ['E. Kharadze Georgian National Astrophysical Observatory, Mt.Kanobili, Abastumani, 0301, Adigeni, Georgia'], 'email': 'nino.kochiashvili@ILIAUNI.EDU.GE'},
-{'name': 'A. Kaeouach', 'affiliations': ['Observatory of Oukaimden,  Morocco'], 'email': ''},
+{'name': 'A. Kaeouach', 'affiliations': ['Observatory of Oukaimden,  Morocco'], 'email': 'aziz5200@live.com'},
 {'name': 'J.-P. Kneib', 'affiliations': ['Laboratoire d’astrophysique (LASTRO), Ecole Polytechnique F ́ed ́erale de Lausanne (EPFL), Observatoire de Sauverny, CH-1290 Versoix, Switzerland'], 'email': ''},
 {'name': 'W. Kou', 'affiliations': ['Beijing Planetarium, Beijing Academy of Science and Technology, Beijing, 100044, People’s Republic of China'], 'email': ''},
 {'name': 'K. Kruiswijk', 'affiliations': ['Centre for Cosmology, Particle Physics and Phenomenology - CP3, Universite Catholique de Louvain, B-1348 Louvain-la-Neuve, Belgium'], 'email': 'karlijn.kruiswijk@UCLOUVAIN.BE'},
@@ -160,3 +161,9 @@ if spie_style:
     for ii, institution in enumerate(institution_list_ordered):
         institution_list.append('\\affil[%s]{%s}' % (str(ii+1), institution))
     print("\n".join(institution_list))
+
+fieldnames = ["name", "email", "affiliations"]
+with open('authors.csv', 'w') as csvfile:
+    writer = csv.DictWriter(csvfile, fieldnames = fieldnames)
+    writer.writeheader()
+    writer.writerows(authors)
