@@ -85,7 +85,7 @@ authors = [
 {'name': 'G.~Raaijmakers', 'affiliations': ['GRAPPA, Anton Pannekoek Institute for Astronomy and Institute of High-Energy Physics, University of Amsterdam, Science Park 904,1098 XH Amsterdam, The Netherlands'], 'email': 'g.raaijmakers@UVA.NL'},
 {'name': 'Y.~Rajabov', 'affiliations': ['Ulugh Beg Astronomical Institute, Uzbekistan Academy of Sciences, Astronomy str. 33, Tashkent 100052, Uzbekistan'], 'email': 'rajabov@ASTRIN.UZ'},
 # {'name': 'C.~Rinner', 'affiliations': ['Oukaimeden Observatory (MOSS), Oukaimeden,  Morocco'], 'email': 'claudine.rinner@laposte.net'},
-{'name': 'J.-P.~Rivet', 'affiliations': ["Laboratoire J.-L. Lagrange, Universit de Nice Sophia-Antipolis, CNRS, Observatoire de la Cote d'Azur, F-06304 Nice, France"], 'email': ''},
+{'name': 'J.-P.~Rivet', 'affiliations': ["Laboratoire J.-L. Lagrange, Universit\\'e de Nice Sophia-Antipolis, CNRS, Observatoire de la Cote d'Azur, F-06304 Nice, France"], 'email': 'jean-pierre.rivet@oca.eu'},
 {'name': 'Y.~Romanyuk', 'affiliations': ['Main Astronomical Observatory of National Academy of Sciences of Ukraine, 27 Acad. Zabolotnoho Str., Kyiv, 03143, Ukraine'], 'email': ''},
 {'name': 'L.~Rousselot', 'affiliations': ["Soci\\'et\\'e Astronomique Populaire du Centre ,40 grande rue, 18340 Ar\\c{c}ay, France"], 'email': ''},
 {'name': 'F.~R\\"unger', 'affiliations': ['Institut f\\"ur Physik und Astronomie, Universit\\"at Potsdam, Karl-Liebknecht-Str. 24/25, D-14476 Potsdam, Germany'], 'email': ''},
