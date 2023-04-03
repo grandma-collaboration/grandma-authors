@@ -48,7 +48,7 @@ authors = [
 {'name': 'E.~Durand', 'affiliations': ["Institut Polytechnique des Sciences Avanc\\'ees IPSA, 63 bis Boulevard de Brandebourg, 94200 Ivry-sur-Seine, France"], 'email': ''},
 {'name': 'P.-A.~Duverne', 'affiliations': ["Universit\\'e Paris Cit\\'e, CNRS, Astroparticule et Cosmologie, F-75013 Paris, France"], 'email': 'pierre-alexandre.duverne@U-PSUD.FR'},
 {'name': 'H.-B.~Eggenstein', 'affiliations': ["Volkssternwarte Paderborn, Im Schlosspark 13, 33104 Paderborn, Germany"], 'email': 'Heinz-Bernd.Eggenstein@aei.mpg.de'},
-{'name': 'S. Ehgamberdiev', 'affiliations': ["Ulugh Beg Astronomical Institute, Uzbekistan Academy of Sciences, Astronomy Str. 33, Tashkent 100052, Uzbekistan", "National University of Uzbekistan, 4 University Str., Tashkent 100174, Uzbekistan"], 'email': ''},
+{'name': 'S. Ehgamberdiev', 'affiliations': ["Ulugh Beg Astronomical Institute, Uzbekistan Academy of Sciences, Astronomy Str. 33, Tashkent 100052, Uzbekistan", "National University of Uzbekistan, 4 University Str., Tashkent 100174, Uzbekistan"], 'email': 'shuhrat@ASTRIN.UZ'},
 #{'name': 'A.~Esamdin', 'affiliations': ["Xinjiang Astronomical Observatory, Chinese Academy of Sciences, Urumqi, Xinjiang 830011, People's Republic of China", "University of Chinese Academy of Sciences, Beijing 100049, People's Republic of China"], 'email': 'aliyi@xao.ac.cn'},
 {'name': 'A.~Fouad', 'affiliations': ['National Research Institute of Astronomy and Geophysics (NRIAG), 1 El-marsad St., 11421 Helwan, Cairo, Egypt'], 'email': 'ahmed.fouad@nriag.sci.eg'},
 {'name': 'M.~Freeberg', 'affiliations': ["KNC, AAVSO, Hidden Valley Observatory (HVO), Colfax, WI, USA; iTelescope, New Mexico Skies Observatory, Mayhill, NM, USA"], 'email': ''},
