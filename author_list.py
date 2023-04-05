@@ -5,6 +5,8 @@ import numpy as np
 import sys
 
 authors = [
+{'name': 'I.~Tosta~e~Melo', 'affiliations': ['Department of Physics and Astronomy, University of Catania, 95125 Catania, Italy'], 'email': 'iara.tosta.melo@dfa.unict.it'},
+{'name': 'J.-G.~Ducoin', 'affiliations': ["Institut d'Astrophysique de Paris, 98 bis boulevard Arago, 75014 Paris, France"], 'email': 'ducoin@IAP.FR'},
 {'name': 'S.~Agayeva', 'affiliations': ['N.Tusi Shamakhy Astrophysical Observatory Azerbaijan National Academy of Sciences, settl.Y. Mammadaliyev, AZ 5626, Shamakhy, Azerbaijan'], 'email': 'sebnem-agayeva-94@MAIL.RU'},
 {'name': 'V.~Aivazyan', 'affiliations': ['E. Kharadze Georgian National Astrophysical Observatory, Mt.Kanobili, Abastumani, 0301, Adigeni, Georgia', 'Samtskhe-Javakheti  State  University, Rustaveli Str. 113,  Akhaltsikhe, 0080,  Georgia'], 'email': 'vovaaivazian10@GMAIL.COM'},
 {'name': 'S.~Alishov', 'affiliations': ['N.Tusi Shamakhy astrophysical Observatory Azerbaijan National Academy of Sciences, settl.Mamedaliyev, AZ 5626, Shamakhy, Azerbaijan'], 'email': 'sebaheddin.ali@GMAIL.COM'},
@@ -44,7 +46,7 @@ authors = [
 {'name': 'D.~Dornic', 'affiliations': ['CPPM, Aix Marseille Univ, CNRS/IN2P3, CPPM, Marseille, France'], 'email': 'dornic@CPPM.IN2P3.FR'},
 #{'name': 'J.~Dubouil', 'affiliations': ["Astronomie et Syst\\`emes Dynamiques, Institut de M\\'ecanique C\\'eleste et de Calcul des \\'Eph\\'em\\'erides CNRS UMR 8028, Observatoire de Paris, Universit\\'e PSL, Sorbonne Universit\\'e, 77 Avenue Denfert-Rochereau, 75014 Paris, France"], 'email': 'julien.dubouil@obspm.fr'},
 {'name': 'F.~Dubois', 'affiliations': ["AstroLAB IRIS, Provinciaal Domein ``De Palingbeek'', Verbrandemolenstraat 5, 8902 Zillebeke, Ieper, Belgium", "Vereniging Voor Sterrenkunde (VVS), Oostmeers 122 C, 8000 Brugge, Belgium"], 'email': ''},
-{'name': 'J.-G.~Ducoin', 'affiliations': ["Institut d'Astrophysique de Paris, 98 bis boulevard Arago, 75014 Paris, France"], 'email': 'ducoin@IAP.FR'},
+#{'name': 'J.-G.~Ducoin', 'affiliations': ["Institut d'Astrophysique de Paris, 98 bis boulevard Arago, 75014 Paris, France"], 'email': 'ducoin@IAP.FR'},
 {'name': 'E.~Durand', 'affiliations': ["Institut Polytechnique des Sciences Avanc\\'ees IPSA, 63 bis Boulevard de Brandebourg, 94200 Ivry-sur-Seine, France"], 'email': ''},
 {'name': 'P.-A.~Duverne', 'affiliations': ["Universit\\'e Paris Cit\\'e, CNRS, Astroparticule et Cosmologie, F-75013 Paris, France"], 'email': 'pierre-alexandre.duverne@U-PSUD.FR'},
 {'name': 'H.-B.~Eggenstein', 'affiliations': ["Volkssternwarte Paderborn, Im Schlosspark 13, 33104 Paderborn, Germany"], 'email': 'Heinz-Bernd.Eggenstein@aei.mpg.de'},
@@ -129,7 +131,7 @@ authors = [
 {'name': 'A.~Takey', 'affiliations': ['National Research Institute of Astronomy and Geophysics (NRIAG), 1 El-marsad St., 11421 Helwan, Cairo, Egypt'], 'email': 'ali.takey@nriag.sci.eg', 'orcid': '0000-0003-1423-5516'},
 {'name': 'Y.~Tillayev', 'affiliations': ['Ulugh Beg Astronomical Institute, Uzbekistan Academy of Sciences, Astronomy str. 33, Tashkent 100052, Uzbekistan', 'National University of Uzbekistan, 4 University str., Tashkent 100174, Uzbekistan'], 'email': 'yusuf@ASTRIN.UZ'},
 {'name': 'L.~M.~Tinjaca Ramirez', 'affiliations': ['Montarrenti Observatory, S. S. 73 Ponente, I-53018 Sovicille, Siena, Italy'], 'email': ''},
-{'name': 'I.~Tosta~e~Melo', 'affiliations': ['INFN, Laboratori Nazionali del Sud, I-95125 Catania, Italy'], 'email': 'itostaemelo@UNISS.IT'},
+#{'name': 'I.~Tosta~e~Melo', 'affiliations': ['INFN, Laboratori Nazionali del Sud, I-95125 Catania, Italy'], 'email': 'itostaemelo@UNISS.IT'},
 {'name': 'D.~Turpin', 'affiliations': ["Universit\\'e Paris-Saclay, Universit\\'e Paris Cit\\'e, CEA, CNRS, AIM, 91191, Gif-sur-Yvette, France"], 'email': 'damien.turpin@CEA.FR'},
 {'name': 'A.~de~Ugarte~Postigo', 'affiliations': ["Artemis, Observatoire de la C\\^ote d'Azur, Universit\\'e C\\^ote d'Azur, Boulevard de l'Observatoire, 06304 Nice, France"], 'email': 'adeugartepostigo@GMAIL.COM'},
 {'name': 'S.~Vanaverbeke', 'affiliations': ["AstroLAB IRIS, Provinciaal Domein ``De Palingbeek'', Verbrandemolenstraat 5, 8902 Zillebeke, Ieper, Belgium", "Vereniging Voor Sterrenkunde (VVS), Oostmeers 122 C, 8000 Brugge, Belgium"], 'email': ''},
