@@ -91,7 +91,7 @@ authors = [
 #{'name': 'A.~Le~Van~Su', 'affiliations': ["OHP, Observatoire de Haute-Provence, CNRS, Aix Marseille University, Institut Pyth\\'eas, St Michel l'Observatoire, France"], 'email': ''},
 #{'name': 'J.~Mao', 'affiliations': ["Yunnan Observatories, Chinese Academy of Sciences, Kunming 650011, Yunnan Province, People's Republic of China"], 'email': ''},
 {'name': 'D.~Marchais', 'affiliations': ["Observatoire du ‘Crous des Gats’, 31550 Cintegabelle, France"], 'email': ''},
-#{'name': 'M.~Ma\\v{s},ek', 'affiliations': ['FZU - Institute of Physics of the Czech Academy of Sciences, Na Slovance 1999/2, CZ-182 21, Praha, Czech Republic'], 'email': 'masekma@FZU.CZ'},
+{'name' 'M.~Ma\\v{s},ek', 'affiliations': ['FZU - Institute of Physics of the Czech Academy of Sciences, Na Slovance 1999/2, CZ-182 21, Praha, Czech Republic'], 'email': 'masekma@FZU.CZ'},
 {'name': "R.~M\\'enard", 'affiliations': ["Club d'astronomie Mont-Tremblant, 545 Chemin Saint-Bernard, Mont-Tremblant, Qu\\'ebec, Canada J8E 1S8"], 'email': ''},
 #{'name': 'T.~Midavaine', 'affiliations': ["Soci\\'t\\' astronomique de France, 3 rue Beethoven, F-75016 Paris, France"], 'email': 'thierrymidavaine@sfr.fr'},
 #{'name': 'A.~M\\"{o}ller', 'affiliations': ['Centre for Astrophysics and Supercomputing, Swinburne University of Technology, Mail Number H29, PO Box 218, 31122 Hawthorn, VIC, Australia', 'ARC Centre of Excellence for Gravitational Wave Discovery (OzGrav), Hawthorn VIC 3122, Australia'], 'email': 'amoller@swin.edu.au'},
