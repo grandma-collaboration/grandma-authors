@@ -72,7 +72,7 @@ authors = [
 {'name': 'N.~Sasaki', 'affiliations': ["Laborat\\'orio Nacional de Astrof\\'isica, R. dos Estados Unidos, 154 - Na\\c{c}\\~oes, Itajub\\'a - MG, 37504-364, Brazil"], 'email': 'nsasaki@lna.br '},
 {'name': 'M.~Serrau','affiliations:'["Soci\\'et\\'e Astronomique de France, Observatoire de Dauban, FR 04150 Banon, France"],'email':'marc.serrau2@free.fr'},
 {'name': 'A.~Simon', 'affiliations': ['Astronomy and Space Physics Department, Taras Shevchenko National University of Kyiv, Glushkova ave., 4, Kyiv, 03022, Ukraine', 'National Center Junior academy of sciences of Ukraine, 38-44, Dehtiarivska St., Kyiv, 04119, Ukraine'], 'email': 'skazhenijandrew@GMAIL.COM'},
-{'name': 'Ahmed Shokry', 'affiliations': ['Astronomy Dept., National Research Institute of Astronomy and Geophysics, (NRIAG), Helwan, Cairo, Egypt'], 'email' : 'ahmedsh2911@gmail.com'},
+{'name': 'A.~Shokry', 'affiliations': ['Astronomy Dept., National Research Institute of Astronomy and Geophysics, (NRIAG), Helwan, Cairo, Egypt'], 'email' : 'ahmedsh2911@gmail.com'},
 {'name': 'O.~Sokoliuk', 'affiliations': ['Astronomical Observatory\\ Taras Shevshenko National University of Kyiv, Observatorna str. 3, Kyiv, 04053, Ukraine', 'Main Astronomical Observatory of National Academy of Sciences of Ukraine, 27 Acad. Zabolotnoho Str., Kyiv, 03143, Ukraine'], 'email': ''},
 {'name': 'X.~Song', 'affiliations': ["Beijing Planetarium, Beijing Academy of Science and Technology, Beijing, 100044, People's Republic of China"], 'email': 'famc2@163.COM'},
 {'name': 'A.~Takey', 'affiliations': ['National Research Institute of Astronomy and Geophysics (NRIAG), 1 El-marsad St., 11421 Helwan, Cairo, Egypt'], 'email': 'ali.takey@nriag.sci.eg', 'orcid': '0000-0003-1423-5516'},
