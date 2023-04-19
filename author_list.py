@@ -37,7 +37,7 @@ authors = [
 {'name': 'A.~Eid', 'affiliations': 'The National Research Institute of Astronomy and Geophysics (NRIAG)'], 'email': ''},
 {'name': 'E.~Elhosseiny', 'affiliations': ["National Research Institute of Astronomy and Geophysics (NRIAG), 1 El-marsad St., 11421 Helwan, Cairo, Egypt"], 'email': 'eslam_elhosseiny@nriag.sci.eg', 'orcid': '0000-0002-9751-8089'},
 {'name': 'L.~Eymar', 'affiliations': [" "], 'email': ''},
-{'name': 'M. ~Farouk', 'affiliations': 'The National Research Institute of Astronomy and Geophysics (NRIAG)'. ], 'email': ''},
+{'name': 'M.~Farouk', 'affiliations': 'The National Research Institute of Astronomy and Geophysics (NRIAG)'. ], 'email': ''},
 {'name': 'A.~Fouad', 'affiliations': ['National Research Institute of Astronomy and Geophysics (NRIAG), 1 El-marsad St., 11421 Helwan, Cairo, Egypt'], 'email': 'ahmed.fouad@nriag.sci.eg'},
 {'name': 'M.~Freeberg', 'affiliations': ['KNC, AAVSO, Hidden Valley Observatory(HVO), Colfax, WI.; iTelescope, NMS, Mayhill, NM.'], 'email': 'mdfreeb@gmail.com', 'orcid' : '0009-0005-4287-7198'},
 {'name': 'F.~Guo', 'affiliations': ["Physics Department and Astronomy Department, Tsinghua University, Beijing, 100084, People's Republic of China"], 'email': 'gfz20@MAILS.TSINGUA.EDU.CN'},
@@ -51,13 +51,15 @@ authors = [
 {'name': 'R.~Inasaridze', 'affiliations': ["E. Kharadze Georgian National Astrophysical Observatory, Mt.Kanobili, Abastumani, 0301, Adigeni, Georgia', 'Samtskhe-Javakheti  State  University, Rustaveli Str. 113,  Akhaltsikhe, 0080,  Georgia"], 'email': ''},
 {'name': 'A.~Iskandar', 'affiliations': ["Xinjiang Astronomical Observatory, Chinese Academy of Sciences, Urumqi, Xinjiang 830011, People's Republic of China", "School of Astronomy and Space Science, University of Chinese Academy of Sciences, Beijing 100049, People's Republic of China"], 'email': 'abudu@xao.ac.cn'},
 {'name': 'N.~Ismailov', 'affiliations': ['N.Tusi Shamakhy Astrophysical Observatory Azerbaijan National Academy of Sciences, settl.Y. Mammadaliyev, AZ 5626, Shamakhy, Azerbaijan'], 'email': 'ismailovnshao@GMAIL.COM', 'orcid': '0000-0002-5307-4295'},
+{'name': 'A.~Janati', 'affiliations': ["Oukaimeden Observatory, HAO Telescope"], 'email': ''},
 {'name': 'T.~Jegou~du~Laz', 'affiliations': ['Division of Physics, Mathematics, and Astronomy, California Institute of Technology, Pasadena, CA 91125, USA'], 'email': 'tdulaz@caltech.edu', 'orcid': '0009-0003-6181-4526'},
 {'name': 'D.~A.~Kann', 'affiliations': ["Hessian Research Cluster ELEMENTS, Giersch Science Center, Max-von-Laue-Stra{\\ss}e 12, Goethe University Frankfurt, Campus Riedberg, 60438 Frankfurt am Main, Germany"], 'email': 'ultralonggrbsn@gmail.com', 'orcid': '0000-0003-2902-3583'},
 {'name': 'G.~Kapanadze', 'affiliations': ["E. Kharadze Georgian National Astrophysical Observatory, Mt.Kanobili, Abastumani, 0301, Adigeni, Georgia', 'Samtskhe-Javakheti  State  University, Rustaveli Str. 113,  Akhaltsikhe, 0080,  Georgia"], 'email': ''},   
 {'name': 'R.~W.~Kiendrebeogo', 'affiliations': [ "Laboratoire de Physique et de Chimie de l'Environnement, Universit\\'e Joseph KI-ZERBO, Ouagadougou, Burkina Faso", "Artemis, Observatoire de la C\\^ote d'Azur, Universit\\'e C\\^ote d'Azur, Boulevard de l'Observatoire, 06304 Nice, France",  "School of Physics and Astronomy, University of Minnesota, Minneapolis, Minnesota 55455, USA"], 'email': 'weizmann.kiendrebeogo@OCA.EU', 'orcid': '0000-0002-9108-5059'},
 {'name': 'A.~Klotz', 'affiliations': ["IRAP, Universit\\'e de Toulouse, CNRS, UPS, 14 Avenue Edouard Belin, F-31400 Toulouse, France", "Universit\\'e Paul Sabatier Toulouse III, Universit'e de Toulouse, 118 route de Narbonne, 31400 Toulouse, France"], 'email': 'aklotz@IRAP.OMP.EU', 'orcid': '0000-0002-2652-0069'},
 {'name': 'R.~Kneip', 'affiliations': ['K26 / Contern Observatory (private obs.), 1, beim Schmilberbour, 5316 Contern, Luxembourg'], 'email': 'raymond.kneip@education.lu'},
-{'name': 'N.~Kochiashvili', 'affiliations': ['E. Kharadze Georgian National Astrophysical Observatory, Mt.Kanobili, Abastumani, 0301, Adigeni, Georgia'], 'email': 'nino.kochiashvili@ILIAUNI.EDU.GE'}, {'name': 'A.~Kaeouach', 'affiliations': ['Oukaimeden Observatory (HAO), Oukaimeden,  Morocco'], 'email': 'aziz5200@live.com', 'orcid': '0000-0001-5249-4354'},
+{'name': 'N.~Kochiashvili', 'affiliations': ['E. Kharadze Georgian National Astrophysical Observatory, Mt.Kanobili, Abastumani, 0301, Adigeni, Georgia'], 'email': 'nino.kochiashvili@ILIAUNI.EDU.GE'}, 
+{'name': 'A.~Kaeouach', 'affiliations': ['Oukaimeden Observatory (HAO), Oukaimeden,  Morocco'], 'email': 'aziz5200@live.com', 'orcid': '0000-0001-5249-4354'},
 {'name': 'K.~Kruiswijk', 'affiliations': ['Centre for Cosmology, Particle Physics and Phenomenology - CP3, Universite Catholique de Louvain, B-1348 Louvain-la-Neuve, Belgium'], 'email': 'karlijn.kruiswijk@UCLOUVAIN.BE'},
 {'name': 'N.~Leroy', 'affiliations': ['IJCLab, Univ Paris-Saclay, CNRS/IN2P3, Orsay, France'], 'email': 'leroy@LAL.IN2P3.FR'},
 {'name': 'J.~Mao', 'affiliations': ["Yunnan Observatories, Chinese Academy of Sciences, Kunming 650011, Yunnan Province, People's Republic of China"], 'email': ''},
@@ -103,7 +105,6 @@ authors = [
 {'name': 'X. ~Zeng', 'affiliations': ['Xinjiang Astronomical Observatory, 150 Science 1-Street, Urumqi, Xinjiang 830011, China'], 'email': 'xyzeng2018@163.com'},
 {'name': 'J.~Zhang', 'affiliations': ["Key Laboratory of Optical Astronomy, National Astronomical Observatories, Chinese Academy of Sciences, A20, Datun Road, Chaoyang District, Beijing 100012, People's Republic of China"], 'email': ''},
 {'name': 'Y.~Zhu', 'affiliations': ["Key Laboratory of Optical Astronomy, National Astronomical Observatories, Chinese Academy of Sciences, A20, Datun Road, Chaoyang District, Beijing 100012, People's Republic of China"], 'email': 'bjtwg@139.COM'},
-
 
 ]
 
