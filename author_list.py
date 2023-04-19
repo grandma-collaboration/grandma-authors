@@ -41,7 +41,7 @@ authors = [
 {'name': 'A.~Fouad', 'affiliations': ['National Research Institute of Astronomy and Geophysics (NRIAG), 1 El-marsad St., 11421 Helwan, Cairo, Egypt'], 'email': 'ahmed.fouad@nriag.sci.eg'},
 {'name': 'M.~Freeberg', 'affiliations': ['KNC, AAVSO, Hidden Valley Observatory(HVO), Colfax, WI.; iTelescope, NMS, Mayhill, NM.'], 'email': 'mdfreeb@gmail.com', 'orcid' : '0009-0005-4287-7198'},
 {'name': 'F.~Guo', 'affiliations': ["Physics Department and Astronomy Department, Tsinghua University, Beijing, 100084, People's Republic of China"], 'email': 'gfz20@MAILS.TSINGUA.EDU.CN'},
-{'name': 'P.~Gokuldass', 'affiliations': ['Department of Aerospace, Physics, and Space Sciences, Florida Institute of Technology, Melbourne, Florida 32901, USA'], 'email': 'priyadass.94@GMAIL.COM'},
+{'name': 'P.~Gokuldass', 'affiliations': ['Department of Aerospace, Physics, and Space Sciences, Florida Institute of Technology, Melbourne, Florida 32901, USA'], 'email': 'priyadass.94@GMAIL.COM', 'orcid': '0009-0006-0547-1030'},
 {'name': 'N.~Guessoum', 'affiliations': ['American University of Sharjah, Physics Department, PO Box 26666, Sharjah, UAE'], 'email': 'nguessoum@AUS.EDU'},
 {'name': 'E.~Gurbanov', 'affiliations': ['N.Tusi Shamakhy Astrophysical Observatory Azerbaijan National Academy of Sciences, settl.Y. Mammadaliyev, AZ 5626, Shamakhy, Azerbaijan'], 'email': 'emingurban88@GMAIL.COM'},
 {'name': 'R.~Hainich', 'affiliations': ['Institut f\\"ur Physik und Astronomie, Universit\\"at Potsdam, Karl-Liebknecht-Str. 24/25, D-14476 Potsdam, Germany'], 'email': 'rhainich@ASTRO.PHYSIK.UNI-POTSDAM.DE'},
