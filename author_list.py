@@ -88,6 +88,21 @@ authors = [
 {'name': 'X.~F.~Wang', 'affiliations': ["Beijing Planetarium, Beijing Academy of Science and Technology, Beijing, 100044, People's Republic of China', 'Physics Department and Astronomy Department, Tsinghua University, Beijing, 100084, People's Republic of China"], 'email': 'wang_xf@MAIL.TSINGHUA.EDU.CN'},
 {'name': 'X. ~Zeng', 'affiliations': ['Xinjiang Astronomical Observatory, 150 Science 1-Street, Urumqi, Xinjiang 830011, China'], 'email': 'xyzeng2018@163.com'},
 {'name': 'Y.~Zhu', 'affiliations': ["Key Laboratory of Optical Astronomy, National Astronomical Observatories, Chinese Academy of Sciences, A20, Datun Road, Chaoyang District, Beijing 100012, People's Republic of China"], 'email': 'bjtwg@139.COM'},
+
+{'name': 'J. Zhang', 'affiliations': ["Key Laboratory of Optical Astronomy, National Astronomical Observatories, Chinese Academy of Sciences, A20, Datun Road, Chaoyang District, Beijing 100012, People's Republic of China"], 'email': ''},
+{'name': 'Jabiri Abdelhadi', 'affiliations': ["Oukaimeden Observatory,High Energy Physics and Astrophysics Laboratory, FSSM, Cadi Ayyad University  Av. Prince My Abdellah, BP 2390 Marrakesh, Morocco"], 'email': ''},
+{'name': 'Mohamed Sabil', 'affiliations': ["Oukaimeden Observatory,High Energy Physics and Astrophysics Laboratory, FSSM, Cadi Ayyad University  Av. Prince My Abdellah, BP 2390 Marrakesh, Morocco"], 'email': ''},
+{'name': 'J.-M. Bai', 'affiliations': ["YNAO"], 'email': ''},
+{'name': 'D. Morris', 'affiliations': ["University of the Virgin Islands"], 'email': ''},
+{'name': 'Pierre Thierry', 'affiliations': ["CNRS-OMP-IRAP"], 'email': ''},
+{'name': 'Frédéric Vachier ', 'affiliations': ["CNRS-OMP-IRAP"], 'email': ''},
+{'name': 'L. Eymar', 'affiliations': [" "], 'email': ''},
+{'name': 'M. Boer', 'affiliations': [" "], 'email': ''},
+{'name': 'R. Inasaridze', 'affiliations': ["E. Kharadze Georgian National Astrophysical Observatory, Mt.Kanobili, Abastumani, 0301, Adigeni, Georgia', 'Samtskhe-Javakheti  State  University, Rustaveli Str. 113,  Akhaltsikhe, 0080,  Georgia"], 'email': ''},
+{'name': 'R. Natsvlishvili', 'affiliations': ["E. Kharadze Georgian National Astrophysical Observatory, Mt.Kanobili, Abastumani, 0301, Adigeni, Georgia', 'Samtskhe-Javakheti  State  University, Rustaveli Str. 113,  Akhaltsikhe, 0080,  Georgia"], 'email': ''},
+{'name': 'G. Kapanadze', 'affiliations': ["E. Kharadze Georgian National Astrophysical Observatory, Mt.Kanobili, Abastumani, 0301, Adigeni, Georgia', 'Samtskhe-Javakheti  State  University, Rustaveli Str. 113,  Akhaltsikhe, 0080,  Georgia"], 'email': ''},   
+{'name': 'D. Datashvili', 'affiliations': ["E. Kharadze Georgian National Astrophysical Observatory, Mt.Kanobili, Abastumani, 0301, Adigeni, Georgia', 'Samtskhe-Javakheti  State  University, Rustaveli Str. 113,  Akhaltsikhe, 0080,  Georgia"], 'email': ''}   
+
 ]
 
 institution_list_ordered = []
