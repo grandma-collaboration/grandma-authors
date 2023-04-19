@@ -17,6 +17,7 @@ authors = [
 {'name': 'S.~Alishov', 'affiliations': ['N.Tusi Shamakhy astrophysical Observatory Azerbaijan National Academy of Sciences, settl.Mamedaliyev, AZ 5626, Shamakhy, Azerbaijan'], 'email': 'sebaheddin.ali@GMAIL.COM'},
 {'name': 'S.~Antier', 'affiliations': ["Artemis, Observatoire de la C\\^ote d'Azur, Universit\\'e C\\^ote d'Azur, Boulevard de l'Observatoire, 06304 Nice, France"], 'email': 'sarah.antier@OCA.EU', 'orcid': '0000-0002-7686-3334'},
 {'name': 'A.~Baransky', 'affiliations': ['Astronomical Observatory Taras Shevshenko National University of Kyiv, Observatorna str. 3, Kyiv, 04053, Ukraine'], 'email': 'abaransky@UKR.NET', 'orcid': '0000-0002-9808-1990'},
+{'name': 'S.~Bednarz', 'affiliations': ['Silesian University of Technology, Faculty of Automatic Control, Electronics and Computer Science, Akademicka 16, 44-100 Gliwice, Poland'], 'email': 'sbendarz@polsl.pl', 'orcid' : '0000-0002-2764-7328'},
 {'name': 'Ph.~Bendjoya', 'affiliations': 'Lagrange-OCA'], 'email': ''},
 {'name': 'Z.~Benkhaldoun', 'affiliations': ["Oukaimeden Observatory,High Energy Physics and Astrophysics Laboratory, FSSM, Cadi Ayyad University  Av. Prince My Abdellah, BP 2390 Marrakesh, Morocco"], 'email': 'zouhair@uca.ac.ma', 'orcid': '0000-0001-6285-9847',},
 {'name': 'S.~Beradze', 'affiliations': ['E. Kharadze Georgian National Astrophysical Observatory, Mt.Kanobili, Abastumani, 0301, Adigeni, Georgia', 'Samtskhe-Javakheti  State  University, Rustaveli Str. 113,  Akhaltsikhe, 0080,  Georgia'], 'email': 'beradze.sophia@GMAIL.COM', 'orcid': '0000-0002-8291-2817'},
