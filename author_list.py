@@ -25,7 +25,7 @@ authors = [
 {'name': 'S.~Beradze', 'affiliations': ['E. Kharadze Georgian National Astrophysical Observatory, Mt.Kanobili, Abastumani, 0301, Adigeni, Georgia', 'Samtskhe-Javakheti  State  University, Rustaveli Str. 113,  Akhaltsikhe, 0080,  Georgia'], 'email': 'beradze.sophia@GMAIL.COM', 'orcid': '0000-0002-8291-2817'},
 {'name': 'U.~Bhardwaj', 'affiliations': ['GRAPPA, Anton Pannekoek Institute for Astronomy and Institute of High-Energy Physics, University of Amsterdam, Science Park 904,1098 XH Amsterdam, The Netherlands'], 'email': 'u.bhardwaj@UVA.NL'},
 {'name': 'M.~Blazek', 'affiliations': ['FZU - Institute of Physics of the Czech Academy of Sciences, Na Slovance 1999/2, CZ-182 21, Praha, Czech Republic'], 'email': 'embee.cz@GMAIL.COM'},
-{'name': 'M.~Boer', 'affiliations': [" "], 'email': ''},
+{'name': 'M.~Bo\\"er', 'affiliations': ["Artemis, Observatoire de la C\\^ote d'Azur, Universit\\'e C\\^ote d'Azur, Boulevard de l'Observatoire, 06304 Nice, France"], 'email': 'michel.boer@oca.eu', 'orcid': '0000-0001-9157-4349'},
 {'name': 'E.~Broens', 'affiliations': ['Vereniging Voor Sterrenkunde, Balen-Neetlaan 18A, 2400, Mol, Belgium'], 'email': 'eric.broens@skynet.be', 'orcid': '0000-0003-1523-4478'},
 {'name': 'O.~Burkhonov', 'affiliations': ['Ulugh Beg Astronomical Institute, Uzbekistan Academy of Sciences, Astronomy str. 33, Tashkent 100052, Uzbekistan'], 'email': 'boa@ASTRIN.UZ', 'orcid': '0000-0003-1169-6763'},
 {'name': 'W.~Corradi', 'affiliations': ["Laborat\\'orio Nacional de Astrof\\'isica, R. dos Estados Unidos, 154 - Na\\c{c}\\~oes, Itajub\\'a - MG, 37504-364, Brazil"], 'email': 'wbcorradi@LNA.BR'},
