@@ -82,7 +82,7 @@ authors = [
 {'name': 'A.~de~Ugarte~Postigo', 'affiliations': ["Artemis, Observatoire de la C\\^ote d'Azur, Universit\\'e C\\^ote d'Azur, Boulevard de l'Observatoire, 06304 Nice, France"], 'email': 'adeugartepostigo@GMAIL.COM', 'orcid': '0000-0001-7717-5085'},
 {'name': 'M.~Vardosanidze', 'affiliations': ['E. Kharadze Georgian National Astrophysical Observatory, Mt.Kanobili, Abastumani, 0301, Adigeni, Georgia', 'Samtskhe-Javakheti  State  University, Rustaveli Str. 113,  Akhaltsikhe, 0080,  Georgia'], 'email': 'manana.vardosanidze.1@ILIAUNI.EDU.GE'}, 
 {'name': 'V.~Vasylenko', 'affiliations': ["Astronomy and Space Physics Department, Taras Shevchenko National University of Kyiv, Glushkova Ave., 4, Kyiv, 03022, Ukraine", "National Center Junior Academy of Sciences of Ukraine, Dehtiarivska St. 38-44, Kyiv, 04119, Ukraine"], 'email': ''},
-{'name': 'D.~Vernet', 'affiliations': 'Galilee-OCA'], 'email': ''},
+{'name': 'D.~Vernet', 'affiliations': 'Galilee-OCA']},
 {'name': 'L.~Wang', 'affiliations': ['Xinjiang Astronomical Observatory, 150 Science 1-Street, Urumqi, Xinjiang 830011, China'], 'email': 'wangletian@xao.ac.cn'},
 {'name': 'J.~P.~Vignes', 'affiliations': ['KNC Deep Sky Chile Observatory'], 'email': ''},
 {'name': 'X.~F.~Wang', 'affiliations': ["Beijing Planetarium, Beijing Academy of Science and Technology, Beijing, 100044, People's Republic of China', 'Physics Department and Astronomy Department, Tsinghua University, Beijing, 100084, People's Republic of China"], 'email': 'wang_xf@MAIL.TSINGHUA.EDU.CN'},
