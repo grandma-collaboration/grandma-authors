@@ -6,7 +6,7 @@ import sys
 
 authors = [
 {'name': 'I.~Tosta~e~Melo', 'affiliations': ['Department of Physics and Astronomy, University of Catania, 95125 Catania, Italy'], 'email': 'iara.tosta.melo@dfa.unict.it'},
-{'name': 'J.-G.~Ducoin', 'affiliations': ["Institut d'Astrophysique de Paris, 98 bis boulevard Arago, 75014 Paris, France"], 'email': 'ducoin@IAP.FR'},
+{'name': 'J.-G.~Ducoin', 'affiliations': ["Sorbonne Universit\\'e, CNRS, UMR 7095, Institut d’Astrophysique de Paris, 98 bis bd Arago, 75014 Paris, France"], 'email': 'ducoin@IAP.FR'},
 {'name': 'Z.~Vidadi', 'affiliations': ['N.Tusi Shamakhy Astrophysical Observatory Azerbaijan National Academy of Sciences, settl.Y. Mammadaliyev, AZ 5626, Shamakhy, Azerbaijan'], 'email': 'zumrudvidadiqizi@GMAIL.COM', 'orcid': '0009-0002-3591-0568'},
 {'name': 'C.~Andrade', 'affiliations': ['School of Physics and Astronomy, University of Minnesota, Minneapolis, Minnesota 55455, USA'], 'email': 'andra104@UMN.EDU', 'orcid': '0009-0004-9687-3275'},
 {'name': 'V.~Rupchandani', 'affiliations': ['Brown University, Providence, RI 02912, Rhode Island, USA'], 'email': ''},
@@ -105,6 +105,8 @@ authors = [
 {'name': 'X. ~Zeng', 'affiliations': ['Xinjiang Astronomical Observatory, 150 Science 1-Street, Urumqi, Xinjiang 830011, China'], 'email': 'xyzeng2018@163.com'},
 {'name': 'J.~Zhang', 'affiliations': ["Key Laboratory of Optical Astronomy, National Astronomical Observatories, Chinese Academy of Sciences, A20, Datun Road, Chaoyang District, Beijing 100012, People's Republic of China"], 'email': ''},
 {'name': 'Y.~Zhu', 'affiliations': ["Key Laboratory of Optical Astronomy, National Astronomical Observatories, Chinese Academy of Sciences, A20, Datun Road, Chaoyang District, Beijing 100012, People's Republic of China"], 'email': 'bjtwg@139.COM'},
+{'name': 'C.~Pellouin', 'affiliations': ["Sorbonne Universit\\'e, CNRS, UMR 7095, Institut d’Astrophysique de Paris, 98 bis bd Arago, 75014 Paris, France"], 'email': 'pellouin@IAP.FR'},
+{'name': 'F.~Daigne', 'affiliations': ["Sorbonne Universit\\'e, CNRS, UMR 7095, Institut d’Astrophysique de Paris, 98 bis bd Arago, 75014 Paris, France","Institut Universitaire de France, Minist\\`ere de l’Enseignement Sup\\'erieur et de la Recherche, 75231 Paris, France"], 'email': 'daigne@IAP.FR'},
 
 ]
 
