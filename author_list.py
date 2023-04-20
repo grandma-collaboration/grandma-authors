@@ -34,9 +34,11 @@ authors = [
 {'name': 'M.~W.~Coughlin', 'affiliations': ['School of Physics and Astronomy, University of Minnesota, Minneapolis, Minnesota 55455, USA'], 'email': 'cough052@umn.edu', 'orcid': '0000-0002-8262-2924'},
 {'name': 'T.~Culino', 'affiliations': ["Artemis, Observatoire de la C\\^ote d'Azur, Universit\\'e C\\^ote d'Azur, Boulevard de l'Observatoire, 06304 Nice, France"], 'email': 'thomas.culino@EDU.DEVINCI.FR'},
 {'name': 'D.~Datashvili', 'affiliations': ["E. Kharadze Georgian National Astrophysical Observatory, Mt.Kanobili, Abastumani, 0301, Adigeni, Georgia', 'Samtskhe-Javakheti  State  University, Rustaveli Str. 113,  Akhaltsikhe, 0080,  Georgia"], 'email': ''}, 
+{'name': 'F.~Daigne', 'affiliations': ["Sorbonne Universit\\'e, CNRS, UMR 7095, Institut d’Astrophysique de Paris, 98 bis bd Arago, 75014 Paris, France","Institut Universitaire de France, Minist\\`ere de l’Enseignement Sup\\'erieur et de la Recherche, 75231 Paris, France"], 'email': 'daigne@IAP.FR'},
 {'name': 'D.~Dornic', 'affiliations': ['CPPM, Aix Marseille Univ, CNRS/IN2P3, CPPM, Marseille, France'], 'email': 'dornic@CPPM.IN2P3.FR', 'orcid': '0000-0001-5729-1468'},
 {'name': 'P.-A.~Duverne', 'affiliations': ["Universit\\'e Paris Cit\\'e, CNRS, Astroparticule et Cosmologie, F-75013 Paris, France"], 'email': 'pierre-alexandre.duverne@U-PSUD.FR'},
 {'name': 'A.~Eid', 'affiliations': ['The National Research Institute of Astronomy and Geophysics (NRIAG)'], 'email': ''},
+{'name': 'S.~Ehgamberdiev', 'affiliations': ['Ulugh Beg Astronomical Institute, Uzbekistan Academy of Sciences, Astronomy str. 33, Tashkent 100052, Uzbekistan', 'National University of Uzbekistan, 4 University str., Tashkent 100174, Uzbekistan'], 'email': 'shuhrat@ASTRIN.UZ', 'orcid': '0000-0001-9730-3769'},
 {'name': 'E.~Elhosseiny', 'affiliations': ["National Research Institute of Astronomy and Geophysics (NRIAG), 1 El-marsad St., 11421 Helwan, Cairo, Egypt"], 'email': 'eslam_elhosseiny@nriag.sci.eg', 'orcid': '0000-0002-9751-8089'},
 {'name': 'L.~Eymar', 'affiliations': [" "], 'email': ''},
 {'name': 'M.~Farouk', 'affiliations': ['The National Research Institute of Astronomy and Geophysics (NRIAG)'], 'email': ''},
@@ -75,6 +77,7 @@ authors = [
 {'name': 'K.~Noysena', 'affiliations': ['National Astronomical Research Institute of Thailand (Public Organization), 260, Moo 4, T. Donkaew, A. Mae Rim, Chiang Mai, 50180, Thailand'], 'email': 'kanthanakorn@NARIT.OR.TH', 'orcid': '0000-0001-9109-8311',},
 {'name': 'A.~Oksanen', 'affiliations': ['Hankasalmi Observatory, Jyvaskylan Sirius ry, Verkkoniementie 30, FI-40950 Muurame, Finland'], 'email': '', 'orcid' : '0000-0001-6249-6062'},
 {'name': 'N.~B.~Orange', 'affiliations': ['OrangeWave Innovative Science, LLC, Moncks Corner, SC 29461, USA'], 'email': 'orangewaveno@GMAIL.COM', 'orcid': '0000-0002-7198-3476'},
+{'name': 'C.~Pellouin', 'affiliations': ["Sorbonne Universit\\'e, CNRS, UMR 7095, Institut d’Astrophysique de Paris, 98 bis bd Arago, 75014 Paris, France"], 'email': 'pellouin@IAP.FR'},
 {'name': 'J.~Peloton', 'affiliations': ["IJCLab, Univ Paris-Saclay, CNRS/IN2P3, Orsay, France"], 'orcid': '0000-0002-8560-4449'},
 {'name': 'M.~Pilloix', 'affiliations': ["Artemis, Observatoire de la Côte d’Azur, Université Côte d’Azur, Boulevard de l'Observatoire, 06304 Nice, France"]},
 {'name': 'A.~Popowicz', 'affiliations': ['Silesian University of Technology, Department of Electronics, Electrical Engineering and Microelectronics, Akademicka 16, 44-100 Gliwice, Poland'], 'email': 'apopowicz@polsl.pl', 'orcid' : '0000-0003-3184-5228'},
@@ -108,9 +111,6 @@ authors = [
 {'name': 'X. ~Zeng', 'affiliations': ['Xinjiang Astronomical Observatory, 150 Science 1-Street, Urumqi, Xinjiang 830011, China'], 'email': 'xyzeng2018@163.com'},
 {'name': 'J.~Zhang', 'affiliations': ["Key Laboratory of Optical Astronomy, National Astronomical Observatories, Chinese Academy of Sciences, A20, Datun Road, Chaoyang District, Beijing 100012, People's Republic of China"], 'email': ''},
 {'name': 'Y.~Zhu', 'affiliations': ["Key Laboratory of Optical Astronomy, National Astronomical Observatories, Chinese Academy of Sciences, A20, Datun Road, Chaoyang District, Beijing 100012, People's Republic of China"], 'email': 'bjtwg@139.COM'},
-{'name': 'C.~Pellouin', 'affiliations': ["Sorbonne Universit\\'e, CNRS, UMR 7095, Institut d’Astrophysique de Paris, 98 bis bd Arago, 75014 Paris, France"], 'email': 'pellouin@IAP.FR'},
-{'name': 'F.~Daigne', 'affiliations': ["Sorbonne Universit\\'e, CNRS, UMR 7095, Institut d’Astrophysique de Paris, 98 bis bd Arago, 75014 Paris, France","Institut Universitaire de France, Minist\\`ere de l’Enseignement Sup\\'erieur et de la Recherche, 75231 Paris, France"], 'email': 'daigne@IAP.FR'},
-
 ]
 
 institution_list_ordered = []
