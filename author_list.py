@@ -73,6 +73,7 @@ authors = [
 {'name': 'K.~Noysena', 'affiliations': ['National Astronomical Research Institute of Thailand (Public Organization), 260, Moo 4, T. Donkaew, A. Mae Rim, Chiang Mai, 50180, Thailand'], 'email': 'kanthanakorn@NARIT.OR.TH', 'orcid': '0000-0001-9109-8311',},
 {'name': 'A.~Oksanen', 'affiliations': ['Hankasalmi Observatory, Jyvaskylan Sirius ry, Verkkoniementie 30, FI-40950 Muurame, Finland'], 'email': '', 'orcid' : '0000-0001-6249-6062'},
 {'name': 'N.~B.~Orange', 'affiliations': ['OrangeWave Innovative Science, LLC, Moncks Corner, SC 29461, USA'], 'email': 'orangewaveno@GMAIL.COM', 'orcid': '0000-0002-7198-3476'},
+{'name': 'J.~Peloton', 'affiliations': ["IJCLab, Univ Paris-Saclay, CNRS/IN2P3, Orsay, France"], 'orcid': '0000-0002-8560-4449'},
 {'name': 'M.~Pilloix', 'affiliations': ["Artemis, Observatoire de la Côte d’Azur, Université Côte d’Azur, Boulevard de l'Observatoire, 06304 Nice, France"]},
 {'name': 'A.~Popowicz', 'affiliations': ['Silesian University of Technology, Department of Electronics, Electrical Engineering and Microelectronics, Akademicka 16, 44-100 Gliwice, Poland'], 'email': 'apopowicz@polsl.pl', 'orcid' : '0000-0003-3184-5228'},
 {'name': 'T.~Pradier', 'affiliations': ["Universit\\'e de Strasbourg, CNRS, IPHC UMR 7178, F-67000 Strasbourg, France"], 'email': 'thierry.pradier@IPHC.CNRS.FR', 'orcid': '0000-0001-5501-0060'},
