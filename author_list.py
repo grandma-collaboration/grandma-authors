@@ -71,7 +71,7 @@ authors = [
 {'name': 'M.~Ma\\v{s},ek', 'affiliations': ['FZU - Institute of Physics of the Czech Academy of Sciences, Na Slovance 1999/2, CZ-182 21, Praha, Czech Republic'], 'email': 'masekma@FZU.CZ'},
 {'name': 'T.~Midavaine', 'affiliations': ["Soci\\'t\\' astronomique de France, 3 rue Beethoven, F-75016 Paris, France"], 'email': 'thierrymidavaine@sfr.fr'},
 {'name': 'D.~Morris', 'affiliations': ["University of the Virgin Islands, United States Virgin Islands 00802, USA"], 'email': 'dmorris@uvi.edu'},
-{'name': 'R.~Natsvlishvili', 'affiliations': ["E. Kharadze Georgian National Astrophysical Observatory, Mt.Kanobili, Abastumani, 0301, Adigeni, Georgia', 'Samtskhe-Javakheti  State  University, Rustaveli Str. 113,  Akhaltsikhe, 0080,  Georgia"], 'email': ''},
+{'name': 'R.~Natsvlishvili', 'affiliations': ["E. Kharadze Georgian National Astrophysical Observatory, Mt.Kanobili, Abastumani, 0301, Adigeni, Georgia'], 'email': ''},
 {'name': 'F.~Navarete', 'affiliations': ["SOAR Telescope/NSF's NOIRLab, Avda Juan Cisternas 1500, 1700000, La Serena, Chile"], 'email': 'navarete@GMAIL.COM'},
 {'name': 'K.~Noonan', 'affiliations': ['University of the Virgin Islands, United States Virgin Islands 00802, USA'], 'email': 'kyle.noonan86@gmail.com'},
 {'name': 'K.~Noysena', 'affiliations': ['National Astronomical Research Institute of Thailand (Public Organization), 260, Moo 4, T. Donkaew, A. Mae Rim, Chiang Mai, 50180, Thailand'], 'email': 'kanthanakorn@NARIT.OR.TH', 'orcid': '0000-0001-9109-8311',},
