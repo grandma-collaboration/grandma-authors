@@ -30,6 +30,7 @@ authors = [
 {'name': 'E.~Broens', 'affiliations': ['Vereniging Voor Sterrenkunde, Balen-Neetlaan 18A, 2400, Mol, Belgium'], 'email': 'eric.broens@skynet.be', 'orcid': '0000-0003-1523-4478'},
 {'name': 'O.~Burkhonov', 'affiliations': ['Ulugh Beg Astronomical Institute, Uzbekistan Academy of Sciences, Astronomy str. 33, Tashkent 100052, Uzbekistan'], 'email': 'boa@ASTRIN.UZ', 'orcid': '0000-0003-1169-6763'},
 {'name': 'N.L.~Christensen', 'affiliations': ['Astrophysique Relativiste Théories Expériences Métrologie Instrumentation Signaux, Nice, France']},
+{'name': 'J.~Cooke', 'affiliations': ["Centre for Astrophysics and Supercomputing, Swinburne University of Technology, Hawthorn, Victoria 3122, Australia ARC Centre of Excellence for Gravitational Wave Discovery {\it (OzGrav)}"], 'email': ''},
 {'name': 'W.~Corradi', 'affiliations': ["Laborat\\'orio Nacional de Astrof\\'isica, R. dos Estados Unidos, 154 - Na\\c{c}\\~oes, Itajub\\'a - MG, 37504-364, Brazil"], 'email': 'wbcorradi@LNA.BR'},
 {'name': 'M.~W.~Coughlin', 'affiliations': ['School of Physics and Astronomy, University of Minnesota, Minneapolis, Minnesota 55455, USA'], 'email': 'cough052@umn.edu', 'orcid': '0000-0002-8262-2924'},
 {'name': 'T.~Culino', 'affiliations': ["Artemis, Observatoire de la C\\^ote d'Azur, Universit\\'e C\\^ote d'Azur, Boulevard de l'Observatoire, 06304 Nice, France"], 'email': 'thomas.culino@EDU.DEVINCI.FR'},
@@ -72,9 +73,11 @@ authors = [
 {'name': 'D.~Marchais', 'affiliations': ['Observatoire du Crous des Gats, F-31550 Cintegabelle, France'], 'email': 'denis.marchais@free.fr', 'orcid' : '0009-0004-2563-0399'},
 {'name': 'M.~Ma\\v{s},ek', 'affiliations': ['FZU - Institute of Physics of the Czech Academy of Sciences, Na Slovance 1999/2, CZ-182 21, Praha, Czech Republic'], 'email': 'masekma@FZU.CZ'},
 {'name': 'T.~Midavaine', 'affiliations': ["Soci\\'t\\' astronomique de France, 3 rue Beethoven, F-75016 Paris, France"], 'email': 'thierrymidavaine@sfr.fr'},
+{'name': 'A.~Moller', 'affiliations': ["Centre for Astrophysics and Supercomputing, Swinburne University of Technology, Hawthorn, Victoria 3122, Australia ARC Centre of Excellence for Gravitational Wave Discovery {\it (OzGrav)}"], 'email': ''},
 {'name': 'D.~Morris', 'affiliations': ["University of the Virgin Islands, United States Virgin Islands 00802, USA"], 'email': 'dmorris@uvi.edu'},
 {'name': 'R.~Natsvlishvili', 'affiliations': ['E. Kharadze Georgian National Astrophysical Observatory, Mt.eonobili, Abastumani, 0301, Adigeni, Georgia'], 'email': ''},
 {'name': 'F.~Navarete', 'affiliations': ["SOAR Telescope/NSF's NOIRLab, Avda Juan Cisternas 1500, 1700000, La Serena, Chile"], 'email': 'navarete@GMAIL.COM'},
+{'name': 'A~Nicuesa~Guelbenzu', 'affiliations': ['Th\\"uringer Landessternwarte Tautenburg, 07778 Tautenburg, Germany'], 'email': 'ana@tls-tautenburg.de'},
 {'name': 'K.~Noonan', 'affiliations': ['University of the Virgin Islands, United States Virgin Islands 00802, USA'], 'email': 'kyle.noonan86@gmail.com'},
 {'name': 'K.~Noysena', 'affiliations': ['National Astronomical Research Institute of Thailand (Public Organization), 260, Moo 4, T. Donkaew, A. Mae Rim, Chiang Mai, 50180, Thailand'], 'email': 'kanthanakorn@NARIT.OR.TH', 'orcid': '0000-0001-9109-8311',},
 {'name': 'A.~Oksanen', 'affiliations': ['Hankasalmi Observatory, Jyvaskylan Sirius ry, Verkkoniementie 30, FI-40950 Muurame, Finland'], 'email': '', 'orcid' : '0000-0001-6249-6062'},
@@ -87,6 +90,7 @@ authors = [
 {'name': 'O.~Pyshna', 'affiliations': ['Astronomical Observatory of Taras Shevchenko National University of Kyiv, Observatorna Str. 3, Kyiv, 04053, Ukraine'], 'email': ''},
 {'name': 'G. Raaijmakers', 'affiliations': ['GRAPPA, Anton Pannekoek Institute for Astronomy and Institute of High-Energy Physics, University of Amsterdam, Science Park 904,1098 XH Amsterdam, The Netherlands']},
 {'name': 'Y.~Rajabov', 'affiliations': ['Ulugh Beg Astronomical Institute, Uzbekistan Academy of Sciences, Astronomy str. 33, Tashkent 100052, Uzbekistan'], 'email': 'rajabov@ASTRIN.UZ', 'orcid': '0000-0001-9878-9553'}, 
+{'name': 'A~Rau', 'affiliations': ['Max-Planck-Institut f\\"ur extraterrestrische Physik, Gie{\ss}enbachstra{\ss}e 1, 85748 Garching, Germany'], 'email': 'arau@mpe.mpg.de'},
 {'name': 'C.~Rinner', 'affiliations': ['Oukaimeden Observatory (MOSS), Oukaimeden,  Morocco'], 'email': 'claudine.rinner@laposte.net', 'orcid': '0000-0001-9878-9553'},
 {'name': 'J.-P.~Rivet', 'affiliations': ["Laboratoire J.-L. Lagrange, Universit\\'e de Nice Sophia-Antipolis, CNRS, Observatoire de la Cote d'Azur, F-06304 Nice, France"], 'email': 'jean-pierre.rivet@oca.eu', 'orcid': '0000-0002-0289-5851'},
 {'name': 'A.S.~Ryh', 'affiliations': ["National Research Institute of Astronomy and Geophysics (NRIAG), 1 El-marsad St., 11421 Helwan, Cairo, Egypt"]},
@@ -115,6 +119,7 @@ authors = [
 {'name': 'J.~Zhang', 'affiliations': ["Key Laboratory of Optical Astronomy, National Astronomical Observatories, Chinese Academy of Sciences, A20, Datun Road, Chaoyang District, Beijing 100012, People's Republic of China"], 'email': ''},
 {'name': 'Y.~Zhu', 'affiliations': ["Key Laboratory of Optical Astronomy, National Astronomical Observatories, Chinese Academy of Sciences, A20, Datun Road, Chaoyang District, Beijing 100012, People's Republic of China"], 'email': 'bjtwg@139.COM'},
 ]
+
 
 institution_list_ordered = []
 for author in authors:
