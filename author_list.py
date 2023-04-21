@@ -74,7 +74,7 @@ authors = [
 {'name': 'D.~Morris', 'affiliations': ["University of the Virgin Islands, United States Virgin Islands 00802, USA"], 'email': 'dmorris@uvi.edu'},
 {'name': 'R.~Natsvlishvili', 'affiliations': ['E. Kharadze Georgian National Astrophysical Observatory, Mt.Kanobili, Abastumani, 0301, Adigeni, Georgia'], 'email': ''},
 {'name': 'F.~Navarete', 'affiliations': ["SOAR Telescope/NSF's NOIRLab, Avda Juan Cisternas 1500, 1700000, La Serena, Chile"], 'email': 'navarete@GMAIL.COM'},
-{'name': 'A~Nicuesa~Guelbenzu', 'affiliations': ["Th\\ ̈uringer Landessternwarte Tautenburg, 07778 Tautenburg, Germany"], 'email': 'ana@tls-tautenburg.de'},
+{'name': 'A~Nicuesa~Guelbenzu', 'affiliations': ['Th\\"uringer Landessternwarte Tautenburg, 07778 Tautenburg, Germany'], 'email': 'ana@tls-tautenburg.de'},
 {'name': 'K.~Noonan', 'affiliations': ['University of the Virgin Islands, United States Virgin Islands 00802, USA'], 'email': 'kyle.noonan86@gmail.com'},
 {'name': 'K.~Noysena', 'affiliations': ['National Astronomical Research Institute of Thailand (Public Organization), 260, Moo 4, T. Donkaew, A. Mae Rim, Chiang Mai, 50180, Thailand'], 'email': 'kanthanakorn@NARIT.OR.TH', 'orcid': '0000-0001-9109-8311',},
 {'name': 'A.~Oksanen', 'affiliations': ['Hankasalmi Observatory, Jyvaskylan Sirius ry, Verkkoniementie 30, FI-40950 Muurame, Finland'], 'email': '', 'orcid' : '0000-0001-6249-6062'},
@@ -87,7 +87,7 @@ authors = [
 {'name': 'O.~Pyshna', 'affiliations': ['Astronomical Observatory of Taras Shevchenko National University of Kyiv, Observatorna Str. 3, Kyiv, 04053, Ukraine'], 'email': ''},
 {'name': 'G. Raaijmakers', 'affiliations': ['GRAPPA, Anton Pannekoek Institute for Astronomy and Institute of High-Energy Physics, University of Amsterdam, Science Park 904,1098 XH Amsterdam, The Netherlands']},
 {'name': 'Y.~Rajabov', 'affiliations': ['Ulugh Beg Astronomical Institute, Uzbekistan Academy of Sciences, Astronomy str. 33, Tashkent 100052, Uzbekistan'], 'email': 'rajabov@ASTRIN.UZ', 'orcid': '0000-0001-9878-9553'}, 
-{'name': 'A~Rau', 'affiliations': ["Max-Planck-Institut für extraterrestrische Physik, Gießenbachstraße 1, 85748 Garching, Germany"], 'email': 'arau@mpe.mpg.de'},
+{'name': 'A~Rau', 'affiliations': ['Max-Planck-Institut f\\"ur extraterrestrische Physik, Gie{\ss}enbachstra{\ss}e 1, 85748 Garching, Germany'], 'email': 'arau@mpe.mpg.de'},
 {'name': 'C.~Rinner', 'affiliations': ['Oukaimeden Observatory (MOSS), Oukaimeden,  Morocco'], 'email': 'claudine.rinner@laposte.net', 'orcid': '0000-0001-9878-9553'},
 {'name': 'J.-P.~Rivet', 'affiliations': ["Laboratoire J.-L. Lagrange, Universit\\'e de Nice Sophia-Antipolis, CNRS, Observatoire de la Cote d'Azur, F-06304 Nice, France"], 'email': 'jean-pierre.rivet@oca.eu', 'orcid': '0000-0002-0289-5851'},
 {'name': 'A.S.~Ryh', 'affiliations': ["National Research Institute of Astronomy and Geophysics (NRIAG), 1 El-marsad St., 11421 Helwan, Cairo, Egypt"]},
@@ -116,10 +116,6 @@ authors = [
 {'name': 'J.~Zhang', 'affiliations': ["Key Laboratory of Optical Astronomy, National Astronomical Observatories, Chinese Academy of Sciences, A20, Datun Road, Chaoyang District, Beijing 100012, People's Republic of China"], 'email': ''},
 {'name': 'Y.~Zhu', 'affiliations': ["Key Laboratory of Optical Astronomy, National Astronomical Observatories, Chinese Academy of Sciences, A20, Datun Road, Chaoyang District, Beijing 100012, People's Republic of China"], 'email': 'bjtwg@139.COM'},
 ]
-
-
-
-
 
 
 institution_list_ordered = []
