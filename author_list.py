@@ -114,7 +114,7 @@ authors = [
 {'name': 'L.~Wang', 'affiliations': ['Xinjiang Astronomical Observatory, 150 Science 1-Street, Urumqi, Xinjiang 830011, China'], 'email': 'wangletian@xao.ac.cn'},
 {'name': 'F.~Vachier ', 'affiliations': ["IRAP, Universit\\'e de Toulouse, CNRS, UPS, 14 Avenue Edouard Belin, F-31400 Toulouse, France"], 'email': ''},
 {'name': 'J.~P.~Vignes', 'affiliations': ['KNC Deep Sky Chile Observatory'], 'email': ''},
-{'name': 'X.~F.~Wang', 'affiliations': ["Beijing Planetarium, Beijing Academy of Science and Technology, Beijing, 100044, People's Republic of China', 'Physics Department and Astronomy Department, Tsinghua University, Beijing, 100084, People's Republic of China"], 'email': 'wang_xf@MAIL.TSINGHUA.EDU.CN'},
+{'name': 'X.~F.~Wang', 'affiliations': ['Beijing Planetarium, Beijing Academy of Sciences and Technology, Beijing, 100044, China', 'Physics department and Tsinghua Center for Astrophysics, Tsinghua University, Beijing, 100084, China'], 'email': 'wang_xf@MAIL.TSINGHUA.EDU.CN'},
 {'name': 'X. ~Zeng', 'affiliations': ['Xinjiang Astronomical Observatory, 150 Science 1-Street, Urumqi, Xinjiang 830011, China'], 'email': 'xyzeng2018@163.com'},
 {'name': 'J.~Zhang', 'affiliations': ["Key Laboratory of Optical Astronomy, National Astronomical Observatories, Chinese Academy of Sciences, A20, Datun Road, Chaoyang District, Beijing 100012, People's Republic of China"], 'email': ''},
 {'name': 'Y.~Zhu', 'affiliations': ["Key Laboratory of Optical Astronomy, National Astronomical Observatories, Chinese Academy of Sciences, A20, Datun Road, Chaoyang District, Beijing 100012, People's Republic of China"], 'email': 'bjtwg@139.COM'},
