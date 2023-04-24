@@ -70,7 +70,7 @@ authors = [
 {'name': 'K.~Kruiswijk', 'affiliations': ['Centre for Cosmology, Particle Physics and Phenomenology - CP3, Universite Catholique de Louvain, B-1348 Louvain-la-Neuve, Belgium'], 'email': 'karlijn.kruiswijk@UCLOUVAIN.BE'},
 {'name': 'N.~Leroy', 'affiliations': ['IJCLab, Univ Paris-Saclay, CNRS/IN2P3, Orsay, France'], 'email': 'leroy@LAL.IN2P3.FR'},
 {'name': 'W.L.~Lin', 'affiliations': ["Physics Department and Astronomy Department, Tsinghua University, Beijing, 100084, People's Republic of China; Beijing Planetarium, Beijing Academy of Science and Technology, Beijing, 100044, People's Republic of China"], 'email': ''},
-{'name': 'J.~Mao', 'affiliations': ["Yunnan Observatories, Chinese Academy of Sciences, Kunming 650011, Yunnan Province, People's Republic of China"], 'email': ''},
+{'name': 'J.~Mao', 'affiliations': ["Yunnan Observatories, Chinese Academy of Sciences, Kunming 650011, Yunnan Province, People's Republic of China", "Key Laboratory for the Structure and Evolution of Celestial Objects, Chinese Academy of Sciences, 650011 Kunming, People's Republic of China"], 'email': ''},
 {'name': 'D.~Marchais', 'affiliations': ['Observatoire du Crous des Gats, F-31550 Cintegabelle, France'], 'email': 'denis.marchais@free.fr', 'orcid' : '0009-0004-2563-0399'},
 {'name': 'M.~Ma\\v{s},ek', 'affiliations': ['FZU - Institute of Physics of the Czech Academy of Sciences, Na Slovance 1999/2, CZ-182 21, Praha, Czech Republic'], 'email': 'masekma@FZU.CZ'},
 {'name': 'T.~Midavaine', 'affiliations': ["Soci\\'t\\' astronomique de France, 3 rue Beethoven, F-75016 Paris, France"], 'email': 'thierrymidavaine@sfr.fr'},
