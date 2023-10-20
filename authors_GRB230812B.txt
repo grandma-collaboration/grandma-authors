@@ -1,0 +1,257 @@
+\author[0009-0009-2434-432X]{T.~Hussenot-Desenonges}
+\affiliation{IJCLab, Univ Paris-Saclay, CNRS/IN2P3, Orsay, France}
+\author[0009-0006-2797-3808]{T.~Wouters}
+\affiliation{Nikhef, Science Park 105, 1098 XG Amsterdam, The Netherlands}
+\affiliation{Institute for Gravitational and Subatomic Physics (GRASP), Utrecht University, Princetonplein 1, 3584 CC Utrecht, The Netherlands}
+\author[0000-0003-1585-8205]{N.~Guessoum}\thanks{Corresponding author: nguessoum@aus.edu}
+\affiliation{Physics Department, American University of Sharjah, Sharjah, UAE}
+\author{I.~Abdi}
+\affiliation{Physics Department, American University of Sharjah, Sharjah, UAE}
+\author{A.~Abulwfa}
+\affiliation{National Research Institute of Astronomy and Geophysics (NRIAG), 1 El-marsad St., 11421 Helwan, Cairo, Egypt}
+\author{C.~Adami}
+\affiliation{Aix Marseille Univ, CNRS, CNES, LAM Marseille, France}
+\author[0000-0001-6991-7616]{J.~F.~Ag\"u\'i~Fern\'andez}
+\affiliation{Instituto de Astrof\'isica de Andaluc\'ia, Glorieta de la Astronom\'ia s/n, 18008 Granada, Spain}
+\author[0000-0002-2184-6430]{T.~Ahumada}
+\affiliation{Cahill Center for Astrophysics, California Institute of Technology, Pasadena CA 91125, USA}
+\author{V.~Aivazyan}
+\affiliation{E. Kharadze Georgian National Astrophysical Observatory, Mt. Kanobili, Abastumani, 0301, Adigeni, Georgia}
+\affiliation{Samtskhe-Javakheti State University, Rustaveli Str. 113, Akhaltsikhe, 0080, Georgia}
+\author[0009-0006-4358-9929]{D.~Akl}
+\affiliation{Physics Department, American University of Sharjah, Sharjah, UAE}
+%\author{S.~Alishov}
+%\affiliation{N. Tusi Shamakhy Astrophysical Observatory, Azerbaijan National Academy of Sciences, settl. Y. Mammadaliyev, AZ 5626, Shamakhy, Azerbaijan}
+\author[0000-0003-3768-7515]{S.~Anand}
+\affiliation{Cahill Center for Astrophysics, California Institute of Technology, Pasadena CA 91125, USA}
+\author[0009-0004-9687-3275]{C.~M.~Andrade}
+\affiliation{School of Physics and Astronomy, University of Minnesota, Minneapolis, Minnesota 55455, USA}
+\author[0000-0002-7686-3334]{S.~Antier}
+\affiliation{Observatoire de la C\^ote d'Azur, Universit\'e C\^ote d'Azur, Boulevard de l'Observatoire, 06304 Nice, France}
+\author{S.~A.~Ata}
+\affiliation{National Research Institute of Astronomy and Geophysics (NRIAG), 1 El-marsad St., 11421 Helwan, Cairo, Egypt}
+\author{P. D'Avanzo}
+\affiliation{INAF–Osservatorio Astronomico di Brera, Via E. Bianchi 46, 23807 Merate (LC), Italy}
+\author{Y.~A.~Azzam}
+\affiliation{National Research Institute of Astronomy and Geophysics (NRIAG), 1 El-marsad St., 11421 Helwan, Cairo, Egypt}
+\author[0000-0002-9808-1990]{A.~Baransky}
+\affiliation{Astronomical Observatory of Taras Shevchenko National University of Kyiv, Observatorna Str. 3, Kyiv, 04053, Ukraine}
+\author{S.~Basa}
+\affiliation{Aix Marseille Univ, CNRS, CNES, LAM Marseille, France}
+\author[0000-0003-0034-7891]{M.~Blazek}
+\affiliation{CEICO, Institute of Physics of the Czech Academy of Sciences, Na Slovance 1999/2, CZ-182 21, Praha, Czech Republic}
+\affiliation{Centro Astronómico Hispano en Andalucı́a, Observatorio de Calar Alto, Sierra de los Filabres, 04550 G\'ergal, Almer\'ia, Spain}
+\author{P.~Bendjoya}
+\affiliation{Laboratoire J.-L. Lagrange, Universit\'e de Nice Sophia-Antipolis, CNRS, Observatoire de la C\^ote d'Azur, 06304 Nice, France}
+\author[0000-0002-8291-2817]{S.~Beradze}
+\affiliation{E. Kharadze Georgian National Astrophysical Observatory, Mt. Kanobili, Abastumani, 0301, Adigeni, Georgia}
+\affiliation{Samtskhe-Javakheti State University, Rustaveli Str. 113, Akhaltsikhe, 0080, Georgia}
+\author{P.~Boumis}
+\affiliation{National Observatory of Athens, Institute for Astronomy, Astrophysics, Space Applications and Remote Sensing, Greece}
+\author{M.~Bremer}
+\affiliation{Institut de Radioastronomie Millim{\'e}trique (IRAM), 300 rue de la Piscine, Domaine Universitaire, 38406 St. Martin d’H{\`e}res, France}
+\author{R. Brivio}
+\affiliation{Universit\`a degli Studi dell'Insubria, Dipartimento di Scienza e Alta Tecnologia, Via Valleggio 11, 22100 Como, Italy}
+\affiliation{INAF–Osservatorio Astronomico di Brera, Via E. Bianchi 46, 23807 Merate (LC), Italy}
+\author{V.~Buat}
+\affiliation{Aix Marseille Univ, CNRS, CNES, LAM Marseille, France}
+\author[0000-0002-8255-5127]{M.~Bulla}
+\affiliation{Department of Physics and Earth Science, University of Ferrara, via Saragat 1, I-44122 Ferrara, Italy}
+\affiliation{INFN, Sezione di Ferrara, via Saragat 1, I-44122 Ferrara, Italy}
+\affiliation{INAF, Osservatorio Astronomico d'Abruzzo, via Mentore Maggini snc, I-64100 Teramo, Italy}
+\author[0000-0003-1169-6763]{O.~Burkhonov}
+\affiliation{Ulugh Beg Astronomical Institute, Uzbekistan Academy of Sciences, Astronomy Str. 33, Tashkent 100052, Uzbekistan}
+\author[0000-0002-2942-3379]{E.~Burns}
+\affiliation{Department of Physics \& Astronomy, Louisiana State University, Baton Rouge, LA 70803, USA}
+\author{S.~B.~Cenko}
+\affiliation{Astrophysics Science Division, NASA Goddard Space Flight Center, 8800 Greenbelt Rd, Greenbelt, MD 20771, USA}
+\affiliation{Joint Space-Science Institute, University of Maryland, College Park, MD 20742, USA}
+\author[0000-0002-8262-2924]{M.~W.~Coughlin}
+\affiliation{School of Physics and Astronomy, University of Minnesota, Minneapolis, Minnesota 55455, USA}
+\author{W.~Corradi}
+\affiliation{Universidade do Estado do Amazonas (UEA), Núcleo de Ensino e Pesquisa em Astronomoia (NEPA), Parintins-AM, Djard Vieira - 69153-450}
+\author{F.~Daigne}
+\affiliation{Sorbonne Universit\'e, CNRS, UMR 7095, Institut d'Astrophysique de Paris, 98 bis bd Arago, 75014 Paris, France}
+\author[0000-0003-2374-307X]{T.~Dietrich}
+\affiliation{Institute for Physics and Astronomy, University of Potsdam, Haus 28, Karl-Liebknecht-Str. 24/25, 14476 Potsdam, Germany}
+\affiliation{Max Planck Institute for Gravitational Physics (Albert Einstein Institute), Am M\"uhlenberg 1, 14476 Potsdam, Germany}
+\author[0000-0001-5729-1468]{D.~Dornic}
+\affiliation{Aix Marseille Univ, CNRS/IN2P3, CPPM, Marseille, France}
+\author{J.-G.~Ducoin}
+\affiliation{Sorbonne Universit\'e, CNRS, UMR 7095, Institut d'Astrophysique de Paris, 98 bis bd Arago, 75014 Paris, France}
+\affiliation{Aix Marseille Univ, CNRS/IN2P3, CPPM, Marseille, France}
+\author{P.-A.~Duverne}
+\affiliation{Universit\'e Paris Cit\'e, CNRS, Astroparticule et Cosmologie, F-75013 Paris, France}
+\author{E.~G.~Elhosseiny}
+\affiliation{National Research Institute of Astronomy and Geophysics (NRIAG), 1 El-marsad St., 11421 Helwan, Cairo, Egypt}
+\author{F.~I.~Elnagahy}
+\affiliation{National Research Institute of Astronomy and Geophysics (NRIAG), 1 El-marsad St., 11421 Helwan, Cairo, Egypt}
+\author{M.~A.~El-Sadek}
+\affiliation{National Research Institute of Astronomy and Geophysics (NRIAG), 1 El-marsad St., 11421 Helwan, Cairo, Egypt}
+\author{M. Ferro}
+\affiliation{Universit\`a degli Studi dell'Insubria, Dipartimento di Scienza e Alta Tecnologia, Via Valleggio 11, 22100 Como, Italy}
+\affiliation{INAF–Osservatorio Astronomico di Brera, Via E. Bianchi 46, 23807 Merate (LC), Italy}
+\author{E.~Le Floc'h}
+\affiliation{Universit\'e Paris-Saclay, Universit\'e Paris Cit\'e, CEA, CNRS, AIM, 91191, Gif-sur-Yvette, France}
+\author[0009-0005-4287-7198]{M.~Freeberg}
+\affiliation{KNC, AAVSO, Hidden Valley Observatory (HVO), Colfax, WI, USA; iTelescope, New Mexico Skies Observatory, Mayhill, NM, USA}
+\author[0000-0003-3457-9375]{J.~P.~U.~Fynbo} 
+\affiliation{Cosmic Dawn Center (DAWN), Denmark} 
+\affiliation{Niels Bohr Institute, University of Copenhagen, Jagtvej 128, 2200 Copenhagen N, Denmark}
+\author{D.~Götz}
+\affiliation{Universit\'e Paris-Saclay, Universit\'e Paris Cit\'e, CEA, CNRS, AIM, 91191, Gif-sur-Yvette, France}
+\author{E.~Gurbanov}
+\affiliation{N.~Tusi Shamakhy Astrophysical Observatory, Ministry of Science and Education, settl.~Y.~Mammadaliyev, AZ 5626, Shamakhy, Azerbaijan}
+\author{G.~M.~Hamed}
+\affiliation{National Research Institute of Astronomy and Geophysics (NRIAG), 1 El-marsad St., 11421 Helwan, Cairo, Egypt}
+\author{E.~Hasanov}
+\affiliation{N.~Tusi Shamakhy Astrophysical Observatory, Ministry of Science and Education, settl.~Y.~Mammadaliyev, AZ 5626, Shamakhy, Azerbaijan}
+\author[0000-0002-7718-7884]{B.~F.~Healy}
+\affil{School of Physics and Astronomy, University of Minnesota, Minneapolis, MN 55455, USA}
+\author[0000-0002-9389-7413]{K.~E.~Heintz}
+\affiliation{Cosmic Dawn Center (DAWN), Denmark} 
+\affiliation{Niels Bohr Institute, University of Copenhagen, Jagtvej 128, 2200 Copenhagen N, Denmark}
+\author{P.~Hello}
+\affiliation{IJCLab, Univ Paris-Saclay, CNRS/IN2P3, Orsay, France}
+\author[0000-0002-6653-0915]{R.~Inasaridze}
+\affiliation{E. Kharadze Georgian National Astrophysical Observatory, Mt. Kanobili, Abastumani, 0301, Adigeni, Georgia}
+\affiliation{Samtskhe-Javakheti State University, Rustaveli Str. 113, Akhaltsikhe, 0080, Georgia}
+\author{A.~Iskandar}
+\affiliation{Xinjiang Astronomical Observatory (XAO), Chinese Academy of Sciences, Urumqi, 830011, People's Republic of China}
+\author[0000-0002-5307-4295]{N.~Ismailov}
+\affiliation{N.~Tusi Shamakhy Astrophysical Observatory, Ministry of Science and Education, settl.~Y.~Mammadaliyev, AZ 5626, Shamakhy, Azerbaijan}
+\author[0000-0001-9695-8472]{L.~Izzo}
+\affiliation{INAF–Osservatorio Astronomico di Capodimonte, Salita Moiariello 16, I-80131 Napoli, Italy} 
+\affiliation{DARK, Niels Bohr Institute, University of Copenhagen, Jagtvej 128, 2200 Copenhagen N, Denmark}
+\author{S.~Jhawar}
+\affiliation{Institute for Physics and Astronomy, University of Potsdam, Haus 28, Karl-Liebknecht-Str. 24/25, 14476 Potsdam, Germany}
+\author[0009-0003-6181-4526]{T. Jegou du Laz}
+\affil{Division of Physics, Mathematics, and Astronomy, California Institute of Technology, Pasadena, CA 91125, USA}
+\author{T.~M.~Kamel}
+\affiliation{National Research Institute of Astronomy and Geophysics (NRIAG), 1 El-marsad St., 11421 Helwan, Cairo, Egypt}
+\author[0000-0003-0035-651X]{S.~Karpov}
+\affiliation{CEICO, Institute of Physics of the Czech Academy of Sciences, Na Slovance 1999/2, CZ-182 21, Praha, Czech Republic}
+\author[0000-0002-2652-0069]{A.~Klotz}
+\affiliation{IRAP, Universit\'e de Toulouse, CNRS, UPS, 14 Avenue Edouard Belin, F-31400 Toulouse, France}
+\affiliation{Universit\'e Paul Sabatier Toulouse III, Universit\'e de Toulouse, 118 Route de Narbonne, 31400 Toulouse, France}
+\author{E.~Koulouridis}
+\affiliation{National Observatory of Athens, Institute for Astronomy, Astrophysics, Space Applications and Remote Sensing, Greece}
+\author[0000-0003-4650-4186]{N.~P.~Kuin}
+\affiliation{Mullard Space Science Laboratory, University College London, Holmbury St. Mary Dorking, RH5 6NT, UK}
+\author[0000-0001-5249-4354]{N.~Kochiashvili}
+\affiliation{E. Kharadze Georgian National Astrophysical Observatory, Mt. Kanobili, Abastumani, 0301, Adigeni, Georgia}
+\author{S.~Leonini}
+\affiliation{Montarrenti Observatory, S. S. 73 Ponente, I-53018 Sovicille, Siena, Italy}
+\author{K.-X.~Lu}
+\affiliation{Yunnan Observatories, Chinese Academy of Sciences, 650011 Kunming, Yunnan Province, People's Republic of China}
+\author[0000-0002-7517-326X]{D.~B.~Malesani}
+\affiliation{Cosmic Dawn Center (DAWN), Denmark} 
+\affiliation{Niels Bohr Institute, University of Copenhagen, Jagtvej 128, 2200 Copenhagen N, Denmark} 
+\affiliation{Department of Astrophysics/IMAPP, Radboud University, 6525 AJ Nijmegen, The Netherlands}
+\author[0000-0002-0967-0006]{M.~Ma\v{s}ek}
+\affiliation{FZU - Institute of Physics of the Czech Academy of Sciences, Na Slovance 1999/2, CZ-182 21, Praha, Czech Republic}
+\author{J.~Mao}
+\affiliation{Yunnan Observatories, Chinese Academy of Sciences, 650011 Kunming, Yunnan Province, People's Republic of China}
+\affiliation{Center for Astronomical Mega-Science, Chinese Academy of Sciences, 20A Datun Road, Chaoyang District, 100012 Beijing, People's Republic of China}
+\affiliation{Key Laboratory for the Structure and Evolution of Celestial Objects, Chinese Academy of Sciences, 650011 Kunming, People's Republic of China}
+\author[0000-0002-2810-2143]{A. Melandri}
+\affiliation{INAF-Osservatorio Astronomico di Roma, Via di Frascati 33, I-00040, Monte Porzio Catone (RM), Italy}
+\affiliation{INAF–Osservatorio Astronomico di Brera, Via E. Bianchi 46, 23807 Merate (LC), Italy}
+\author{B. M. ~Mihov}
+\affiliation{Institute of Astronomy and NAO, Bulgarian Academy of Sciences, 72 Tsarigradsko Chaussee Blvd., 1784 Sofia, Bulgaria}
+\author{R.~Natsvlishvili}
+\affiliation{E. Kharadze Georgian National Astrophysical Observatory, Mt. Kanobili, Abastumani, 0301, Adigeni, Georgia}
+\author[0000-0002-0284-0578]{F.~Navarete}
+\affiliation{SOAR Telescope/NSF's NOIRLab Avda Juan Cisternas 1500, 1700000, La Serena, Chile}
+\author{V.~Nedora}
+\affiliation{Max Planck Institute for Gravitational Physics (Albert Einstein Institute), Am M\"uhlenberg 1, 14476 Potsdam, Germany}
+\author{J.~Nicolas}
+\affiliation{Observatoire de la C\^ote d'Azur, Universit\'e C\^ote d'Azur, Boulevard de l'Observatoire, 06304 Nice, France}
+\author{M.~Odeh}
+\affiliation{Observatoire de la C\^ote d'Azur, Universit\'e C\^ote d'Azur, Boulevard de l'Observatoire, 06304 Nice, France}
+\author{J.~Palmerio}
+\affiliation{GEPI, Observatoire de Paris, Universit\'e PSL, CNRS, 5 place Jules Janssen, 92190 Meudon, France}
+\author[0000-0001-7041-3239]{P.~T.~H.~Pang}
+\affiliation{Nikhef, Science Park 105, 1098 XG Amsterdam, The Netherlands}
+\affiliation{Institute for Gravitational and Subatomic Physics (GRASP), Utrecht University, Princetonplein 1, 3584 CC Utrecht, The Netherlands}
+\author{M. De Pasquale}
+\affiliation{University of Messina, Mathematics, Informatics, Physics and Earth Science Department, Via F.D. D'Alcontres 31, Polo Papardo, 98166, Messina, Italy}
+\author{H.~W.~Peng}
+\affiliation{Physics Department, Tsinghua University, Beijing, 100084, People's Republic of China}
+\author{S.~Pormente}
+\affiliation{Observatoire de la C\^ote d'Azur, Universit\'e C\^ote d'Azur, Boulevard de l'Observatoire, 06304 Nice, France}
+\author[0000-0002-8560-4449]{J.~Peloton}
+\affiliation{IJCLab, Univ Paris-Saclay, CNRS/IN2P3, Orsay, France}
+\author[0000-0001-5501-0060]{T.~Pradier}
+\affiliation{Universit\'e de Strasbourg, CNRS, IPHC UMR 7178, 67000 Strasbourg, France}
+\author{O. Pyshna}
+\affiliation{Astronomical Observatory of Taras Shevchenko National University of Kyiv, Observatorna Str. 3, Kyiv, 04053, Ukraine}
+\author[0000-0001-9878-9553]{Y.~Rajabov}
+\affiliation{Ulugh Beg Astronomical Institute, Uzbekistan Academy of Sciences, Astronomy Str. 33, Tashkent 100052, Uzbekistan}
+\author{N.~A.~Rakotondrainibe}
+\affiliation{Aix Marseille Univ, CNRS, CNES, LAM Marseille, France}
+\author{J.-P.~Rivet}
+\affiliation{Laboratoire J.-L. Lagrange, Universit\'e de Nice Sophia-Antipolis, CNRS, Observatoire de la C\^ote d'Azur, 06304 Nice, France}
+\author{L.~Rousselot}
+\affiliation{Observatoire de la C\^ote d'Azur, Universit\'e C\^ote d'Azur, Boulevard de l'Observatoire, 06304 Nice, France}
+\author{A.~Saccardi}
+\affiliation{GEPI, Observatoire de Paris, Universit\'e PSL, CNRS, 5 place Jules Janssen, 92190 Meudon, France}
+\author{N.~Sasaki}
+\affiliation{Universidade do Estado do Amazonas (UEA), Núcleo de Ensino e Pesquisa em Astronomoia (NEPA), Parintins-AM, Djard Vieira - 69153-450}
+\author{B.~Schneider}
+\affiliation{Kavli Institute for Astrophysics and Space Research, Massachusetts Institute of Technology, 77 Massachusetts Ave, Cambridge, MA 02139, USA}
+\author{M.~Serrau}
+\affiliation{Soci\'et\'e Astronomique de France, Observatoire de Dauban, FR 04150 Banon, France}
+\author{A.~Shokry}
+\affiliation{National Research Institute of Astronomy and Geophysics (NRIAG), 1 El-marsad St., 11421 Helwan, Cairo, Egypt}
+\author{L.~Slavcheva-Mihova }
+\affiliation{Institute of Astronomy and NAO, Bulgarian Academy of Sciences, 72 Tsarigradsko Chaussee Blvd., 1784 Sofia, Bulgaria}
+\author{A.~Simon}
+\affiliation{Astronomy and Space Physics Department, Taras Shevchenko National University of Kyiv, Glushkova Ave., 4, Kyiv, 03022, Ukraine}
+\affiliation{National Center Junior Academy of Sciences of Ukraine, Dehtiarivska St. 38-44, Kyiv, 04119, Ukraine}
+\author{O.~Sokoliuk}
+\affiliation{Astronomical Observatory of Taras Shevchenko National University of Kyiv, Observatorna Str. 3, Kyiv, 04053, Ukraine}
+\affiliation{Main Astronomical Observatory of National Academy of Sciences of Ukraine, 27 Acad. Zabolotnoho Str., Kyiv, 03143, Ukraine}
+\author{G.~Srinivasaragavan}
+\affiliation{Department of Astronomy, University of Maryland, College Park, MD 20742, USA}
+\affiliation{Joint Space-Science Institute, University of Maryland, College Park, MD 20742, USA}
+\affiliation{Astrophysics Science Division, NASA Goddard Space Flight Center, 8800 Greenbelt Rd, Greenbelt, MD 20771, USA}
+\author[0000-0001-6548-3777]{R.~Strausbaugh}
+\affiliation{Department of Physics, Eastern Illinois University, Charleston, IL 61920, USA}
+\author[0000-0003-1423-5516]{A.~Takey}
+\affiliation{National Research Institute of Astronomy and Geophysics (NRIAG), 1 El-marsad St., 11421 Helwan, Cairo, Egypt}
+\author[0000-0002-7978-7648]{C.~C.~Th\"one}
+\affiliation{Astronomical Institute of the Czech Academy of Sciences (ASU-CAS), Fricova 298, Ond\v rejov,
+251 65, Czech Republic}
+\author[0000-0002-2861-1343]{Y.~Tillayev}
+\affiliation{Ulugh Beg Astronomical Institute, Uzbekistan Academy of Sciences, Astronomy Str. 33, Tashkent 100052, Uzbekistan}
+\affiliation{National University of Uzbekistan, 4 University Str., Tashkent 100174, Uzbekistan}
+\author{N.~R.~Tanvir}
+\affiliation{University of Leicester, Dept. of Physics and Astronomy, University Road, Leicester, LE1 7RH, United Kingdom}
+\author{I.~Tosta~e~Melo}
+\affiliation{University of Catania, Department of Physics and Astronomy. Via Santa Sofia 64, 95123, Catania. Italy}
+\author[0000-0003-1835-1522]{D.~Turpin}
+\affiliation{Universit\'e Paris-Saclay, Universit\'e Paris Cit\'e, CEA, CNRS, AIM, 91191, Gif-sur-Yvette, France}
+\author[0000-0001-7717-5085]{A.~de~Ugarte~Postigo}
+\affiliation{Observatoire de la C\^ote d'Azur, Universit\'e C\^ote d'Azur, Boulevard de l'Observatoire, 06304 Nice, France}
+\author{V. Vasylenko}
+\affiliation{Astronomy and Space Physics Department, Taras Shevchenko National University of Kyiv, Glushkova Ave., 4, Kyiv, 03022, Ukraine}
+\affiliation{National Center Junior Academy of Sciences of Ukraine, Dehtiarivska St. 38-44, Kyiv, 04119, Ukraine}
+\author{S.~D.~Vergani}
+\affiliation{GEPI, Observatoire de Paris, Universit\'e PSL, CNRS, 5 place Jules Janssen, 92190 Meudon, France}
+\author[0009-0002-3591-0568]{Z.~Vidadi}
+\affiliation{N.~Tusi Shamakhy Astrophysical Observatory, Ministry of Science and Education, settl.~Y.~Mammadaliyev, AZ 5626, Shamakhy, Azerbaijan}
+\author[0000-0003-3257-9435]{D.~Xu}
+\affiliation{Key Laboratory for the Structure and Evolution of Celestial Objects, Chinese Academy of Sciences, 650011 Kunming, People's Republic of China}
+\author{L.~T.~Wang}
+\affiliation{Xinjiang Astronomical Observatory (XAO), Chinese Academy of Sciences, Urumqi, 830011, People's Republic of China}
+\author[0000-0002-7334-2357]{X.~F.~Wang}
+\affiliation{Physics Department, Tsinghua University, Beijing, 100084, People's Republic of China}
+\affiliation{Beijing Planetarium, Beijing Academy of Science and Technology, Beijing, 100044, People's Republic of China}
+\author[0000-0001-6114-9173]{J.~M.~Winters}
+\affiliation{Institut de Radioastronomie Millim{\'e}trique (IRAM), 300 rue de la Piscine, Domaine Universitaire, 38406 St. Martin d’H{\`e}res, France}
+\author{X~-L.~Zhang}
+\affiliation{Yunnan Observatories, Chinese Academy of Sciences, 650011 Kunming, Yunnan Province, People's Republic of China}
+\author[0000-0002-9022-1928]{Z.~Zhu}
+\affiliation{Key Laboratory for the Structure and Evolution of Celestial Objects, Chinese Academy of Sciences, 650011 Kunming, People's Republic of China}
+\affiliation{Department of Astronomy, School of Physics, Huazhong University of Science and Technology, Wuhan, 430074, China} 
