@@ -107,7 +107,7 @@
 \author{E.~Hasanov}
 \affiliation{N.~Tusi Shamakhy Astrophysical Observatory, Ministry of Science and Education, settl.~Y.~Mammadaliyev, AZ 5626, Shamakhy, Azerbaijan}
 \author[0000-0002-7718-7884]{B.~F.~Healy}
-\affil{School of Physics and Astronomy, University of Minnesota, Minneapolis, MN 55455, USA}
+\affiliation{School of Physics and Astronomy, University of Minnesota, Minneapolis, MN 55455, USA}
 \author[0000-0002-9389-7413]{K.~E.~Heintz}
 \affiliation{Cosmic Dawn Center (DAWN), Denmark} 
 \affiliation{Niels Bohr Institute, University of Copenhagen, Jagtvej 128, 2200 Copenhagen N, Denmark}
@@ -126,7 +126,7 @@
 \author{S.~Jhawar}
 \affiliation{Institute for Physics and Astronomy, University of Potsdam, Haus 28, Karl-Liebknecht-Str. 24/25, 14476 Potsdam, Germany}
 \author[0009-0003-6181-4526]{T. Jegou du Laz}
-\affil{Division of Physics, Mathematics, and Astronomy, California Institute of Technology, Pasadena, CA 91125, USA}
+\affiliation{Division of Physics, Mathematics, and Astronomy, California Institute of Technology, Pasadena, CA 91125, USA}
 \author{T.~M.~Kamel}
 \affiliation{National Research Institute of Astronomy and Geophysics (NRIAG), 1 El-marsad St., 11421 Helwan, Cairo, Egypt}
 \author[0000-0003-0035-651X]{S.~Karpov}
@@ -221,8 +221,7 @@
 \author[0000-0003-1423-5516]{A.~Takey}
 \affiliation{National Research Institute of Astronomy and Geophysics (NRIAG), 1 El-marsad St., 11421 Helwan, Cairo, Egypt}
 \author[0000-0002-7978-7648]{C.~C.~Th\"one}
-\affiliation{Astronomical Institute of the Czech Academy of Sciences (ASU-CAS), Fricova 298, Ond\v rejov,
-251 65, Czech Republic}
+\affiliation{Astronomical Institute of the Czech Academy of Sciences (ASU-CAS), Fricova 298, Ond\v rejov, 251 65, Czech Republic}
 \author[0000-0002-2861-1343]{Y.~Tillayev}
 \affiliation{Ulugh Beg Astronomical Institute, Uzbekistan Academy of Sciences, Astronomy Str. 33, Tashkent 100052, Uzbekistan}
 \affiliation{National University of Uzbekistan, 4 University Str., Tashkent 100174, Uzbekistan}
