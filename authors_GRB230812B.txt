@@ -148,7 +148,7 @@
 \affiliation{Cosmic Dawn Center (DAWN), Denmark} 
 \affiliation{Niels Bohr Institute, University of Copenhagen, Jagtvej 128, 2200 Copenhagen N, Denmark} 
 \affiliation{Department of Astrophysics/IMAPP, Radboud University, 6525 AJ Nijmegen, The Netherlands}
-\author[0000-0002-0967-0006]{M.~Ma\v{s}ek}
+\author[0000-0002-0967-0006]{M.~Masek}
 \affiliation{FZU - Institute of Physics of the Czech Academy of Sciences, Na Slovance 1999/2, CZ-182 21, Praha, Czech Republic}
 \author{J.~Mao}
 \affiliation{Yunnan Observatories, Chinese Academy of Sciences, 650011 Kunming, Yunnan Province, People's Republic of China}

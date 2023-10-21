@@ -67,17 +67,19 @@ spie_style = False
 if mnras_style:
     author_list = []
 
+    num_characters = 0
     for ii, author in enumerate(authors):
         author_institutions = author["affiliations"]
         indices = []
         for author_institution in author_institutions:
             indices.append(institution_list_ordered.index(author_institution))
-        author_list.append('%s$^{%s}$' % (author["name"], ",".join([str(x+1) for x in indices])))
-        if np.mod(ii, 4) == 0 and ii > 0:
+        author_list.append('%s$^{%s}$, ' % (author["name"], ",".join([str(x+1) for x in indices])))
+        num_characters = num_characters + len(author["name"]) + len(",".join([str(x+1) for x in indices]))
+        if num_characters > 60 and ii > 0:
             author_list.append('\\newauthor')
+            num_characters = 0
 
-
-    print(", ".join(author_list))
+    print(" ".join(author_list))
 
     institution_list = []
     for ii, institution in enumerate(institution_list_ordered):
