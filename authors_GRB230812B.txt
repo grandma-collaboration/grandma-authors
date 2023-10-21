@@ -218,6 +218,8 @@
 \affiliation{Astrophysics Science Division, NASA Goddard Space Flight Center, 8800 Greenbelt Rd, Greenbelt, MD 20771, USA}
 \author[0000-0001-6548-3777]{R.~Strausbaugh}
 \affiliation{Department of Physics, Eastern Illinois University, Charleston, IL 61920, USA}
+\author{N.~R.~Tanvir}
+\affiliation{University of Leicester, Dept. of Physics and Astronomy, University Road, Leicester, LE1 7RH, United Kingdom}
 \author[0000-0003-1423-5516]{A.~Takey}
 \affiliation{National Research Institute of Astronomy and Geophysics (NRIAG), 1 El-marsad St., 11421 Helwan, Cairo, Egypt}
 \author[0000-0002-7978-7648]{C.~C.~Th\"one}
@@ -225,8 +227,6 @@
 \author[0000-0002-2861-1343]{Y.~Tillayev}
 \affiliation{Ulugh Beg Astronomical Institute, Uzbekistan Academy of Sciences, Astronomy Str. 33, Tashkent 100052, Uzbekistan}
 \affiliation{National University of Uzbekistan, 4 University Str., Tashkent 100174, Uzbekistan}
-\author{N.~R.~Tanvir}
-\affiliation{University of Leicester, Dept. of Physics and Astronomy, University Road, Leicester, LE1 7RH, United Kingdom}
 \author{I.~Tosta~e~Melo}
 \affiliation{University of Catania, Department of Physics and Astronomy. Via Santa Sofia 64, 95123, Catania. Italy}
 \author[0000-0003-1835-1522]{D.~Turpin}
